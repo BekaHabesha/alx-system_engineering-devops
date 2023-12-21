@@ -9,7 +9,7 @@
 
 * **File_name:** [**README.md file**](https://github.com/BekaHabesha/alx-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/README.md)
 * **Created:** <ins>**On December 21, 2023**</ins>
-* **Author:** [***Bereket Dereje Mekkonen***](https://intranet.alxswe.com/users/Bereket Dereje Mekonnen)
+* **Author:** [***Bereket Dereje Mekkonen***](https://intranet.alxswe.com/users/BereketDerejeMekonnen)
 * **Project:** [**0x04. Loops, conditions and parsing**](https://intranet.alxswe.com/projects/251)
 * **GitHub repository:** 📂 [**alx-system_engineering-devops**](https://github.com/BekaHabesha/alx-system_engineering-devops)
 * **Directory:** 📂 [**0x04-loops_conditions_and_parsing**](https://github.com/BekaHabesha/alx-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing)
@@ -86,7 +86,7 @@
 <H2> <ins>General Learning Objectives</ins> :heavy_check_mark:</H2>
 
 * **How to create <ins>SSH keys</ins>.**
-* **What is the <ins>advantage</ins> of using** ${{\color{red}{\textsf{ '#!/usr/bin/env bash'\ \}}}}$ **over** ${{\color{red}{\textsf{ `#!/bin/bash`\ \}}}}$
+* **What is the <ins>advantage</ins> of using** [**#!/usr/bin/env bash**](./1-for_best_school) **over** ${{\color{red}{\textsf{ `#!/bin/bash`\ \}}}}$
 * **How to <ins>use</ins>** ${{\color{red}{\textsf{ while,\ \}}}}$ ${{\color{red}{\textsf{ until\ \}}}}$ **and** ${{\color{red}{\textsf{ for\ \}}}}$ **loops.**
 * **How to <ins>use</ins>** ${{\color{red}{\textsf{ if,\ \}}}}$ ${{\color{red}{\textsf{ else,\ \}}}}$ ${{\color{red}{\textsf{ elif\ \}}}}$ **and** ${{\color{red}{\textsf{ case\ \}}}}$ **condition statements.**
 * **How to <ins>use</ins> the** ${{\color{red}{\textsf{ cut\ \}}}}$ **command.**
