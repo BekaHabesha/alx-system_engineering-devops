@@ -2,12 +2,12 @@
 <H1 align="center"> <ins>  0x04. Loops, conditions and parsing README.md</ins> </H1>
 
 ### **man or help:** :heavy_check_mark:
-* $\mathscr{\color{red}{env}}}$
-* $\mathscr{\color{red}{cut}}}$
-* $\mathscr{\color{red}{for}}}$
-* $\mathscr{\color{red}{while}}}$
-* $\mathscr{\color{red}{until}}}$
-* $\mathscr{\color{red}{if}}}$
+* $\mathscr{\color{red}{env}}$
+* $\mathscr{\color{red}{cut}}$
+* $\mathscr{\color{red}{for}}$
+* $\mathscr{\color{red}{while}}$
+* $\mathscr{\color{red}{until}}$
+* $\mathscr{\color{red}{if}}$
 
 <p align="center">
   <img src="https://i.ibb.co/WfGQF14/0x0-C-Python-Almost-a-circle-Alx-enginn-logo.png" />
