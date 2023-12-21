@@ -35,7 +35,7 @@
 ###
 
 <p align="center">
-  <img src="https://yourengineer.in/wp-content/uploads/2021/08/Python-Programming-e1628700625240.png" />
+  <img src="https://d1m75rqqgidzqn.cloudfront.net/wp-data/2021/06/11162836/iStock-1313617131.jpg" />
 </p>
 
 
@@ -86,7 +86,7 @@
 <H2> <ins>General Learning Objectives</ins> :heavy_check_mark:</H2>
 
 * **How to create <ins>SSH keys</ins>.**
-* **What is the <ins>advantage</ins> of using** [**#!/usr/bin/env bash**](./1-for_best_school) **over** ${{\color{red}{\textsf{ `#!/bin/bash`\ \}}}}$
+* **What is the <ins>advantage</ins> of using** [**#!/usr/bin/env bash**](./1-for_best_school) **over** [**#!/bin/bash**](./1-for_best_school)
 * **How to <ins>use</ins>** ${{\color{red}{\textsf{ while,\ \}}}}$ ${{\color{red}{\textsf{ until\ \}}}}$ **and** ${{\color{red}{\textsf{ for\ \}}}}$ **loops.**
 * **How to <ins>use</ins>** ${{\color{red}{\textsf{ if,\ \}}}}$ ${{\color{red}{\textsf{ else,\ \}}}}$ ${{\color{red}{\textsf{ elif\ \}}}}$ **and** ${{\color{red}{\textsf{ case\ \}}}}$ **condition statements.**
 * **How to <ins>use</ins> the** ${{\color{red}{\textsf{ cut\ \}}}}$ **command.**
@@ -111,7 +111,7 @@
 * You **are <ins>not allowed**</ins> **to use** ${{\color{red}{\textsf{ awk\ \}}}}$
 * Your **<ins>Bash script**</ins> **must <ins>pass**</ins> ${{\color{red}{\textsf{ Shellcheck\ \}}}}$ (**version** ${{\color{red}{\textsf{ 0.7.0\ \}}}}$ **) without any error.**
 
-* The <ins>**first line of all your Bash scripts</ins>** should be exactly ${{\color{red}{\textsf{ #!/usr/bin/env bash\ \}}}}$
+* The <ins>**first line of all your Bash scripts</ins>** should be exactly [**#!/usr/bin/env bash**](./1-for_best_school)
 * The <ins>**second line of all your Bash scripts</ins>** should be a **a comment explaining what is the <ins>script doing</ins>.**
 
 <p align="center">
@@ -169,22 +169,23 @@ For every feedback, Shellcheck will provide a code that you can use to get more 
 
 ## <ins>**GITHUB_REPOSITORY</ins>: 📂**    [**alx-system_engineering-devops**](https://github.com/BekaHabesha/alx-system_engineering-devops)
 
-## <ins>**DIRECTORY</ins>: 📂**   [**0x04-loops_conditions_and_parsing**](https://github.com/BekaHabesha/alx-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing
+## <ins>**DIRECTORY</ins>: 📂**   [**0x04-loops_conditions_and_parsing**](https://github.com/BekaHabesha/alx-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing)
 
 ##
+* **Created:** <ins>**On December 21, 2023**</ins>
+* **Author:** 
 
 * **File_name:** 
-  * <ins>**README.md file**</ins>
+  * [**README.md file**](https://github.com/BekaHabesha/alx-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/README.md)
 * **Created:** 
   * <ins>**On December 21, 2023**</ins>
 * **Author:** 
-  * <ins>***Bereket Dereje Mekkonen***</ins>
-* **Project:** 
+  * [***Bereket Dereje Mekkonen***](https://intranet.alxswe.com/users/BereketDerejeMekonnen)
   * [**0x04. Loops, conditions and parsing**](https://intranet.alxswe.com/projects/251)
 * **GitHub repository:** 📂
   * [**alx-system_engineering-devops**](https://github.com/BekaHabesha/alx-system_engineering-devops)
 * **Directory:** 📂
-  * [**0x04-loops_conditions_and_parsing**](https://github.com/BekaHabesha/alx-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing
+  * [**0x04-loops_conditions_and_parsing**](https://github.com/BekaHabesha/alx-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing]
 * **Project Tasks:** 
   * <ins>**Mandatory and Advanced**</ins>
 * **Tasks in number:** 
@@ -219,7 +220,7 @@ You will soon have to manage your own **servers** concept page hosted on remote 
 **Create a RSA key pair.**
 
 * **<ins>Requirements</ins>:**
-  * Share your **public key** in your answer file ${{\color{red}{\textsf{ 0-RSA_public_key.pub\ \}}}}$
+  * Share your **public key** in your answer file [**0-RSA_public_key.pub**](./0-RSA_public_key.pub)
   * Fill the ${{\color{red}{\textsf{ SSH public key\ \}}}}$ field of your [**intranet profile**](https://intranet.alxswe.com/rltoken/qsaEQ3ZWrgs-zoueDpXpPA) with the public key you just generated.
   * **Keep the private key to yourself in a secure location**, you will use it later to connect to your servers using SSH. Some storing ideas are Dropbox, Google Drive, password manager, USB key. Failing to do so will prevent you to access your servers, which will prevent you from doing your projects.
   * If you decide to add a passphrase to your key, make sure to save this passphrase in a secure location, you will not be able to use your keys without the passphrase.
@@ -256,7 +257,7 @@ BekaHabesha@ubuntu$
 ```
 
 * **<ins>Note that</ins>:**
-  * **The first line of my Bash script starts with** ${{\color{red}{\textsf{ #!/usr/bin/env bash\ \}}}}$ 
+  * **The first line of my Bash script starts with** [**#!/usr/bin/env bash**](./1-for_best_school)
   * The second line of my Bash scripts is a comment explaining what it is doing.
 
 ##
@@ -375,140 +376,467 @@ BekaHabesha@ubuntu$
 
 ##
 
-## **No. 6. __str__**:heavy_check_mark:
+## **No. 6. Superstitious numbers** :heavy_check_mark:
 * **File:**
-  * [**models/rectangle.py**](./models/rectangle.py)
+  * [**6-superstitious_numbers**](./6-superstitious_numbers)
 ###
-* **Update the class** <ins>**Rectangle**</ins> by overriding the **__str__** method so that it returns <ins>**[Rectangle] (<id>) <x>/<y> - <width>/<height>**</ins>
+* **Write a <ins>**Bash script</ins> that displays numbers from 1 to 20 and:**
+  * displays ${{\color{red}{\textsf{ 4\ \}}}}$ *and then* ${{\color{red}{\textsf{ bad luck from China\ \}}}}$ for the 4th loop iteration
+  * displays ${{\color{red}{\textsf{ 9\ \}}}}$ *and then* ${{\color{red}{\textsf{ bad luck from Japan\ \}}}}$ for the 9th loop iteration
+  * displays ${{\color{red}{\textsf{ 17\ \}}}}$ *and then* ${{\color{red}{\textsf{ bad luck from Italy\ \}}}}$ for the 17th loop iteration
 
-![BekiHabesha.]( https://i.ibb.co/cNqZ762/5-main-0x0-C-Python-Almost-a-circle.png)
+* **<ins>Requirements</ins>:**
+  * You must **use** the ${{\color{red}{\textsf{ while\ \}}}}$ **loop** (${{\color{red}{\textsf{ for\ \}}}}$ and ${{\color{red}{\textsf{ until\ \}}}}$ are forbidden)
+  * You must **use** the ${{\color{red}{\textsf{ case\ \}}}}$ **statements**
+
+```js
+BekaHabesha@ubuntu$ ./6-superstitious_numbers
+1
+2
+3
+4
+bad luck from China
+5
+6
+7
+8
+9
+bad luck from Japan
+10
+11
+12
+13
+14
+15
+16
+17
+bad luck from Italy
+18
+19
+20
+BekaHabesha@ubuntu$ 
+```
 
 ##
 
-## **No. 7. Display #1**:heavy_check_mark:
+## **No. 7. Clock**:heavy_check_mark:
 * **File:**
-  * [**models/rectangle.py**](./models/rectangle.py)
+  * [**7-clock**](./7-clock)
 ###
-* **Update the class** <ins>**Rectangle</ins> by improving the public method [def display(self):](./models/rectangle.py)** to print in stdout the <ins>**Rectangle**</ins> instance with the character <ins>**#</ins>** - you don’t need to handle <ins>**x</ins>** and <ins>**y</ins>** here.
-![BekiHabesha.](https://i.ibb.co/nwwqg1b/6-main-0x0-C-Python-Almost-a-circle.png)
+* **Write a <ins>**Bash script</ins> that displays the time for 12 hours and 59 minutes:**
+  * displays **hours** ${{\color{red}{\textsf{ 0\ \}}}}$ *to* ${{\color{red}{\textsf{ 12\ \}}}}$
+  * displays **minutes** ${{\color{red}{\textsf{ 1\ \}}}}$ *to* ${{\color{red}{\textsf{ 59\ \}}}}$
+
+* **<ins>Requirements</ins>:**
+  * You must **use** the ${{\color{red}{\textsf{ while\ \}}}}$ **loop** (${{\color{red}{\textsf{ for\ \}}}}$ and ${{\color{red}{\textsf{ until\ \}}}}$ are forbidden)
+
+
+  * **Note that in this example, we only display the first 70 lines using** the ${{\color{red}{\textsf{ head\ \}}}}$ **command.**
+
+```js
+BekaHabesha@ubuntu$ ./7-clock | head -n 70
+Hour: 0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+Hour: 1
+1
+2
+3
+4
+5
+6
+7
+8
+9
+BekaHabesha@ubuntu$ 
+```
 
 ##
 
-## **No. 8. Update #0** :heavy_check_mark:
+## **No. 8. For ls** :heavy_check_mark:
 * **File:**
-  * [**models/rectangle.py**](./models/rectangle.py)
+  * [**8-for_ls**](./8-for_ls)
 ###
-* **Update the class** <ins>**Rectangle</ins> by adding the public method [def update(self, *args):](./models/rectangle.py)** that assigns an <ins>**argument**</ins> to each <ins>**attribute</ins>:** 
-  * <ins>**1st argument</ins> should be the <ins>id</ins> attribute.**
-  * <ins>**2nd argument</ins> should be the <ins>width</ins> attribute.**
-  * <ins>**3rd argument</ins> should be the <ins>height</ins> attribute.**
-  * <ins>**4th argument</ins> should be the <ins>x</ins> attribute.**
-  * <ins>**5th argument</ins> should be the <ins>y</ins> attribute.**<br>
+* **Write a <ins>**Bash script</ins> that displays numbers from 1 to 20 and:**
+  * displays ${{\color{red}{\textsf{ 4\ \}}}}$ *and then* ${{\color{red}{\textsf{ bad luck from China\ \}}}}$ for the 4th loop iteration
+  * displays ${{\color{red}{\textsf{ 9\ \}}}}$ *and then* ${{\color{red}{\textsf{ bad luck from Japan\ \}}}}$ for the 9th loop iteration
+  * displays ${{\color{red}{\textsf{ 17\ \}}}}$ *and then* ${{\color{red}{\textsf{ bad luck from Italy\ \}}}}$ for the 17th loop iteration
 
-* **This type of argument is called a <ins>“no-keyword argument”</ins>** - <ins>**Argument order is super important</ins>.**
+* **<ins>Requirements</ins>:**
+  * You must **use** the ${{\color{red}{\textsf{ while\ \}}}}$ **loop** (${{\color{red}{\textsf{ for\ \}}}}$ and ${{\color{red}{\textsf{ until\ \}}}}$ are forbidden)
+  * You must **use** the ${{\color{red}{\textsf{ case\ \}}}}$ **statements**
 
-![BekiHabesha.]( https://i.ibb.co/qBLjxGQ/7-main-0x0-C-Python-Almost-a-circle.png)
+```js
+BekaHabesha@ubuntu$ ls
+100-read_and_cut              1-for_best_school         6-superstitious_numbers
+101-tell_the_story_of_passwd  2-while_best_school       7-clock
+102-lets_parse_apache_logs    3-until_best_school       8-for_ls
+103-dig_the-data              4-if_9_say_hi                  9-to_file_or_not_to_file
+10-fizzbuzz                   5-4_bad_luck_8_is_your_chance
+BekaHabesha@ubuntu$ ./8-for_ls
+read_and_cut
+tell_the_story_of_passwd
+lets_parse_apache_logs
+dig_the-data
+fizzbuzz
+for_best_school
+while_best_school
+until_best_school
+if_9_say_hi
+4_bad_luck_8_is_your_chance
+superstitious_numbers
+clock
+for_ls
+to_file_or_not_to_file
+BekaHabesha@ubuntu$ 
+```
 
 ##
 
-## **No. 9. Update #1** :heavy_check_mark:
+## **No. 9. To file, or not to file** :heavy_check_mark:
 * **File:**
-  * [**models/rectangle.py**](./models/rectangle.py)
+  * [**9-to_file_or_not_to_file **](./9-to_file_or_not_to_file)
 ###
-* **Update the class** <ins>**Rectangle</ins> by updating the public method [def update(self, *args):](./models/rectangle.py)** by changing the __prototype to [update(self, *args, **kwargs)](./models/rectangle.py)__</ins> that assigns a <ins>**key/value argument to attributes</ins>:**
-  * __**kwargs__ can be thought of as a **double pointer to a dictionary: <ins>key/value</ins>.**
-    * As **Python doesn’t have pointers,** <ins>__**kwargs__</ins> is not literally a <ins>**double pointer</ins> -** describing it as such is just a way of explaining its behavior in terms you’re already familiar with.
-  * <ins>__**kwargs__</ins> must be **skipped** if <ins>__*args__</ins> **exists and is not empty.**
-  * **Each key in this <ins>dictionary</ins> represents an <ins>attribute to the instance</ins>.**<br>
+* **Write a <ins>**Bash script</ins> that displays numbers from 1 to 20 and:**
+  * displays ${{\color{red}{\textsf{ 4\ \}}}}$ *and then* ${{\color{red}{\textsf{ bad luck from China\ \}}}}$ for the 4th loop iteration
+  * displays ${{\color{red}{\textsf{ 9\ \}}}}$ *and then* ${{\color{red}{\textsf{ bad luck from Japan\ \}}}}$ for the 9th loop iteration
+  * displays ${{\color{red}{\textsf{ 17\ \}}}}$ *and then* ${{\color{red}{\textsf{ bad luck from Italy\ \}}}}$ for the 17th loop iteration
 
-* **This type of argument is called a <ins>“no-keyword argument”</ins>** - <ins>**Argument order is super important</ins>.**
+* **<ins>Requirements</ins>:**
+  * You must **use** the ${{\color{red}{\textsf{ while\ \}}}}$ **loop** (${{\color{red}{\textsf{ for\ \}}}}$ and ${{\color{red}{\textsf{ until\ \}}}}$ are forbidden)
+  * You must **use** the ${{\color{red}{\textsf{ case\ \}}}}$ **statements**
 
-![BekiHabesha.]( https://i.ibb.co/z8KGpJR/8-main-0x0-C-Python-Almost-a-circle.png)
+```js
+BekaHabesha@ubuntu$ file school
+school: cannot open `school' (No such file or directory)
+BekaHabesha@ubuntu$ ./9-to_file_or_not_to_file 
+school file does not exist
+sylvain@ubuntu$ touch school
+BekaHabesha@ubuntu$ ./9-to_file_or_not_to_file 
+school file exists
+school file is empty
+school is a regular file
+BekaHabesha@ubuntu$ echo 'betty' > school 
+BekaHabesha@ubuntu$ ./9-to_file_or_not_to_file 
+school file exists
+school file is not empty
+school is a regular file
+BekaHabesha@ubuntu$ rm school
+BekaHabesha@ubuntu$ mkdir school
+BekaHabesha@ubuntu$ ./9-to_file_or_not_to_file 
+school file exists
+school file is not empty
+BekaHabesha@ubuntu$ 
+```
 
 ##
 
-## **No. 10. And now, the Square!** :heavy_check_mark:
+## **No. 10. FizzBuzz** :heavy_check_mark:
 * **File:**
-  * [**models/square.py**](./models/square.py)
+  * [**10-fizzbuzz**](./10-fizzbuzz)
 ###
-* **Write the class** <ins>**Square</ins> that inherits from <ins>Rectangle</ins>:**
-  * **In the file [models/square.py](./models/square.py)**
-  * **Class <ins>square</ins> inherits from <ins>Rectangle</ins>**
-  * **<ins>class constructor</ins>:**  **def __init__(self, size, x=0, y=0, id=None):** :
-      * Call the **super class** with **<ins>id</ins>, <ins>x</ins>, <ins>y</ins>, <ins>width</ins> and <ins>height</ins> -** this **super call** with use the **<ins>logic</ins>** of the **__init__** of the **<ins>Rectangle</ins> class.** The <ins>**width**</ins> and <ins>**height**</ins> must be **assigned to the value of <ins>size</ins>.**
-      * **You must not create <ins>new attributes</ins> for this class, use <ins>all attributes of Rectangle</ins> - <ins>As reminder</ins>: a Square is a Rectangle with the same width and height.**
-      * **All <ins>width</ins>, <ins>height</ins>, <ins>x</ins> and <ins>y</ins> validation must inherit from <ins>Rectangle</ins> -** same behavior in case of wrong data.
-  * **The <ins>overloading</ins> __str__ method should return <ins>[Square] (<id>) <x>/<y> - <size></ins> - in our case, <ins>width</ins> or <ins>height</ins>.** <br>
+* **Write a <ins>**Bash script</ins> that displays numbers from 1 to 20 and:**
+  * displays ${{\color{red}{\textsf{ 4\ \}}}}$ *and then* ${{\color{red}{\textsf{ bad luck from China\ \}}}}$ for the 4th loop iteration
+  * displays ${{\color{red}{\textsf{ 9\ \}}}}$ *and then* ${{\color{red}{\textsf{ bad luck from Japan\ \}}}}$ for the 9th loop iteration
+  * displays ${{\color{red}{\textsf{ 17\ \}}}}$ *and then* ${{\color{red}{\textsf{ bad luck from Italy\ \}}}}$ for the 17th loop iteration
 
-**As you know, a Square is a special Rectangle, so it makes sense this class Square inherits from Rectangle. Now you have a Square class who has the same attributes and same methods.**
+* **<ins>Requirements</ins>:**
+  * You must **use** the ${{\color{red}{\textsf{ while\ \}}}}$ **loop** (${{\color{red}{\textsf{ for\ \}}}}$ and ${{\color{red}{\textsf{ until\ \}}}}$ are forbidden)
+  * You must **use** the ${{\color{red}{\textsf{ case\ \}}}}$ **statements**
 
-![BekiHabesha.]( https://i.ibb.co/Ky13gfC/9-1-main-0x0-C-Python-Almost-a-circle.png)
-![BekiHabesha.]( https://i.ibb.co/dP3QR46/9-2-main-0x0-C-Python-Almost-a-circle.png)
+```js
+BekaHabesha@ubuntu$ ./10-fizzbuzz | head -20
+1
+2
+Fizz
+4
+Buzz
+Fizz
+7
+8
+Fizz
+Buzz
+11
+Fizz
+13
+14
+FizzBuzz
+16
+17
+Fizz
+19
+Buzz
+BekaHabesha@ubuntu$ 
+```
 
 #
 
 <h1 align="center">ADVANCED_TASKS (From Task 20 to 21) :cd:</h1>
 
-## **No. 11. Square size** :heavy_check_mark:
+## **No. Read and cut** :heavy_check_mark:
 * **File:**
-  * [**models/square.py**](./models/square.py)
+  * [**100-read_and_cut**](./100-read_and_cut)
 ###
-* **Update the class** <ins>**Square</ins> by adding the public getter and setter <ins>size</ins>.**
-  * **The setter should assign (in this order) the <ins>width</ins> and the <ins>height</ins> -** with the same value.
-  * **The setter should have the same value validation as the <ins>Rectangle</ins> for <ins>width</ins> and <ins>height</ins> -** No need to change the exception error message (It should be the one from <ins>**width**</ins>).
+* **Write a <ins>**Bash script</ins> that displays numbers from 1 to 20 and:**
+  * displays ${{\color{red}{\textsf{ 4\ \}}}}$ *and then* ${{\color{red}{\textsf{ bad luck from China\ \}}}}$ for the 4th loop iteration
+  * displays ${{\color{red}{\textsf{ 9\ \}}}}$ *and then* ${{\color{red}{\textsf{ bad luck from Japan\ \}}}}$ for the 9th loop iteration
+  * displays ${{\color{red}{\textsf{ 17\ \}}}}$ *and then* ${{\color{red}{\textsf{ bad luck from Italy\ \}}}}$ for the 17th loop iteration
 
-![BekiHabesha.]( https://i.ibb.co/KyDBzRX/10-main-0x0-C-Python-Almost-a-circle.png)
+* **<ins>Requirements</ins>:**
+  * You must **use** the ${{\color{red}{\textsf{ while\ \}}}}$ **loop** (${{\color{red}{\textsf{ for\ \}}}}$ and ${{\color{red}{\textsf{ until\ \}}}}$ are forbidden)
+  * You must **use** the ${{\color{red}{\textsf{ case\ \}}}}$ **statements**
+
+```js
+BekaHabesha@ubuntu$ cat /etc/passwd
+root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+sys:x:3:3:sys:/dev:/usr/sbin/nologin
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/usr/sbin/nologin
+man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
+lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+irc:x:39:39:ircd:/var/run/ircd:/usr/sbin/nologin
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+libuuid:x:100:101::/var/lib/libuuid:
+syslog:x:101:104::/home/syslog:/bin/false
+messagebus:x:102:106::/var/run/dbus:/bin/false
+landscape:x:103:109::/var/lib/landscape:/bin/false
+sshd:x:104:65534::/var/run/sshd:/usr/sbin/nologin
+pollinate:x:105:1::/var/cache/pollinate:/bin/false
+vagrant:x:1000:1000::/home/vagrant:/bin/bash
+colord:x:106:112:colord colour management daemon,,,:/var/lib/colord:/bin/false
+statd:x:107:65534::/var/lib/nfs:/bin/false
+sylvain:98:99:Sylvain:/home/sylvain:/bin/bash
+puppet:x:108:114:Puppet configuration management daemon,,,:/var/lib/puppet:/bin/false
+ubuntu:x:1001:1001:Ubuntu:/home/ubuntu:/bin/bash
+BekaHabesha@ubuntu$ ./100-read_and_cut
+root:0:/root
+daemon:1:/usr/sbin
+bin:2:/bin
+sys:3:/dev
+sync:4:/bin
+games:5:/usr/games
+man:6:/var/cache/man
+lp:7:/var/spool/lpd
+mail:8:/var/mail
+news:9:/var/spool/news
+uucp:10:/var/spool/uucp
+proxy:13:/bin
+www-data:33:/var/www
+backup:34:/var/backups
+list:38:/var/list
+irc:39:/var/run/ircd
+gnats:41:/var/lib/gnats
+nobody:65534:/nonexistent
+libuuid:100:/var/lib/libuuid
+syslog:101:/home/syslog
+messagebus:102:/var/run/dbus
+landscape:103:/var/lib/landscape
+sshd:104:/var/run/sshd
+pollinate:105:/var/cache/pollinate
+vagrant:1000:/home/vagrant
+colord:106:/var/lib/colord
+statd:107:/var/lib/nfs
+sylvain:99:/bin/bash
+puppet:108:/var/lib/puppet
+ubuntu:1001:/home/ubuntu
+BekaHabesha@ubuntu$ 
+```
 
 ##
 
-## **No. 12. Square update** :heavy_check_mark:
+## **No. 12. Tell the story of passwd** :heavy_check_mark:
 * **File:**
-  * [**models/square.py**](./models/square.py)
-###
-* ***Update the class** <ins>**Square</ins> by adding the public method** [__def update(self, *args, **kwargs)__](./models/square.py)** that assigns <ins>**attributes</ins>:**
-  * <ins>__*args__</ins> is the list of <ins>**arguments</ins> - no-keyworded arguments.**
-    * <ins>**1st argument</ins> should be the <ins>id</ins> attribute.**
-    * <ins>**2nd argument</ins> should be the <ins>size</ins> attribute.**
-    * <ins>**3rd argument</ins> should be the <ins>x</ins> attribute.**
-    * <ins>**4th argument</ins> should be the <ins>y</ins> attribute.**
-  * <ins>__**kwargs__</ins> can be thought of as a **double pointer to a dictionary: <ins>key/value</ins>** (keyworded arguments).
-  * <ins>__**kwargs__</ins> must be **skipped** if <ins>__*args__</ins> **exists and is not empty.**
-  * **Each key in this <ins>dictionary</ins> represents an <ins>attribute to the instance</ins>.**
+  * [**101-tell_the_story_of_passwd**](./101-tell_the_story_of_passwd)
 
-![BekiHabesha.]( https://i.ibb.co/926STV9/11-1-main-0x0-C-Python-Almost-a-circle.png)
-![BekiHabesha.]( https://i.ibb.co/LJNL961/11-2-main-0x0-C-Python-Almost-a-circle.png)
+<p align="center">
+  <img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/03ca27392c6338e696fc0c3b08765f02c98457a1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231221%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231221T184919Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ce35c70b75b1be3c6a5dbeb3d0114714124cdac045ec9ca9c9cf40ba79ca8938" />
+</p>
+
+
+###
+* **Write a <ins>**Bash script</ins> that displays numbers from 1 to 20 and:**
+  * displays ${{\color{red}{\textsf{ 4\ \}}}}$ *and then* ${{\color{red}{\textsf{ bad luck from China\ \}}}}$ for the 4th loop iteration
+  * displays ${{\color{red}{\textsf{ 9\ \}}}}$ *and then* ${{\color{red}{\textsf{ bad luck from Japan\ \}}}}$ for the 9th loop iteration
+  * displays ${{\color{red}{\textsf{ 17\ \}}}}$ *and then* ${{\color{red}{\textsf{ bad luck from Italy\ \}}}}$ for the 17th loop iteration
+
+* **<ins>Requirements</ins>:**
+  * You must **use** the ${{\color{red}{\textsf{ while\ \}}}}$ **loop** (${{\color{red}{\textsf{ for\ \}}}}$ and ${{\color{red}{\textsf{ until\ \}}}}$ are forbidden)
+  * You must **use** the ${{\color{red}{\textsf{ case\ \}}}}$ **statements**
+
+```js
+BekaHabesha@ubuntu$ ls
+100-read_and_cut              1-for_best_school         6-superstitious_numbers
+101-tell_the_story_of_passwd  2-while_best_school       7-clock
+102-lets_parse_apache_logs    3-until_best_school       8-for_ls
+103-dig_the-data              4-if_9_say_hi                  9-to_file_or_not_to_file
+10-fizzbuzz                   5-4_bad_luck_8_is_your_chance
+BekaHabesha@ubuntu$ ./8-for_ls
+read_and_cut
+tell_the_story_of_passwd
+lets_parse_apache_logs
+dig_the-data
+fizzbuzz
+for_best_school
+while_best_school
+until_best_school
+if_9_say_hi
+4_bad_luck_8_is_your_chance
+superstitious_numbers
+clock
+for_ls
+to_file_or_not_to_file
+BekaHabesha@ubuntu$ 
+```
 
 ##
 
-## **No. 13. Rectangle instance to dictionary representation**:heavy_check_mark:
+## **No. 13. Let's parse Apache logs**: heavy_check_mark:
 * **File:**
-  * [**models/rectangle.py**](./models/rectangle.py)
-###
-* **Update the class** <ins>**Rectangle**</ins> by **adding the public method [def to_dictionary(self):](./models/rectangle.py)** that returns the dictionary representation of a <ins>**Rectangle</ins>:**
-#####
-* **This <ins>dictionary</ins> must contain:**
-  * <ins>**id</ins>**
-  * <ins>**width</ins>**
-  * <ins>**height</ins>**
-  * <ins>**x</ins>**
-  * <ins>**y</ins>**
+  * [**102-lets_parse_apache_logs**](./102-lets_parse_apache_logs)
 
-![BekiHabesha.]( https://i.ibb.co/64b43nr/12-main-0x0-C-Python-Almost-a-circle.png)
+<p align="center">
+  <img src="https://intranet.alxswe.com/images/contents/sysadmin/projects/80/such_awk.jpg" />
+</p>
+###
+* **Write a <ins>**Bash script</ins> that displays numbers from 1 to 20 and:**
+  * displays ${{\color{red}{\textsf{ 4\ \}}}}$ *and then* ${{\color{red}{\textsf{ bad luck from China\ \}}}}$ for the 4th loop iteration
+  * displays ${{\color{red}{\textsf{ 9\ \}}}}$ *and then* ${{\color{red}{\textsf{ bad luck from Japan\ \}}}}$ for the 9th loop iteration
+  * displays ${{\color{red}{\textsf{ 17\ \}}}}$ *and then* ${{\color{red}{\textsf{ bad luck from Italy\ \}}}}$ for the 17th loop iteration
+
+* **<ins>Requirements</ins>:**
+  * You must **use** the ${{\color{red}{\textsf{ while\ \}}}}$ **loop** (${{\color{red}{\textsf{ for\ \}}}}$ and ${{\color{red}{\textsf{ until\ \}}}}$ are forbidden)
+  * You must **use** the ${{\color{red}{\textsf{ case\ \}}}}$ **statements**
+
+```js
+BekaHabesha@ubuntu$ ls
+100-read_and_cut              1-for_best_school         6-superstitious_numbers
+101-tell_the_story_of_passwd  2-while_best_school       7-clock
+102-lets_parse_apache_logs    3-until_best_school       8-for_ls
+103-dig_the-data              4-if_9_say_hi                  9-to_file_or_not_to_file
+10-fizzbuzz                   5-4_bad_luck_8_is_your_chance
+BekaHabesha@ubuntu$ ./8-for_ls
+read_and_cut
+tell_the_story_of_passwd
+lets_parse_apache_logs
+dig_the-data
+fizzbuzz
+for_best_school
+while_best_school
+until_best_school
+if_9_say_hi
+4_bad_luck_8_is_your_chance
+superstitious_numbers
+clock
+for_ls
+to_file_or_not_to_file
+BekaHabesha@ubuntu$ 
+```
 
 ##
 
-## **No. 14. Square instance to dictionary representation**:heavy_check_mark:
+## **No. 14. Dig the data**: heavy_check_mark:
 * **File:**
-  * [**models/square.py**](./models/square.py)
+  * [**103-dig_the-data**](./103-dig_the-data)
 ###
-* **Update the class** <ins>**Square**</ins> by **adding the public method [def to_dictionary(self):](./models/square.py)** that returns the dictionary representation of a <ins>**Square</ins>:**
-#####
-* **This <ins>dictionary</ins> must contain:**
-  * <ins>**id</ins>**
-  * <ins>**size</ins>**
-  * <ins>**x</ins>**
-  * <ins>**y</ins>**
+* **Write a <ins>**Bash script</ins> that displays numbers from 1 to 20 and:**
+  * displays ${{\color{red}{\textsf{ 4\ \}}}}$ *and then* ${{\color{red}{\textsf{ bad luck from China\ \}}}}$ for the 4th loop iteration
+  * displays ${{\color{red}{\textsf{ 9\ \}}}}$ *and then* ${{\color{red}{\textsf{ bad luck from Japan\ \}}}}$ for the 9th loop iteration
+  * displays ${{\color{red}{\textsf{ 17\ \}}}}$ *and then* ${{\color{red}{\textsf{ bad luck from Italy\ \}}}}$ for the 17th loop iteration
 
-![BekiHabesha.]( https://i.ibb.co/QjTdyXD/13-main-0x0-C-Python-Almost-a-circle.png)
+* **<ins>Requirements</ins>:**
+  * You must **use** the ${{\color{red}{\textsf{ while\ \}}}}$ **loop** (${{\color{red}{\textsf{ for\ \}}}}$ and ${{\color{red}{\textsf{ until\ \}}}}$ are forbidden)
+  * You must **use** the ${{\color{red}{\textsf{ case\ \}}}}$ **statements**
+
+```js
+BekaHabesha@ubuntu$ ls
+100-read_and_cut              1-for_best_school         6-superstitious_numbers
+101-tell_the_story_of_passwd  2-while_best_school       7-clock
+102-lets_parse_apache_logs    3-until_best_school       8-for_ls
+103-dig_the-data              4-if_9_say_hi                  9-to_file_or_not_to_file
+10-fizzbuzz                   5-4_bad_luck_8_is_your_chance
+BekaHabesha@ubuntu$ ./8-for_ls
+read_and_cut
+tell_the_story_of_passwd
+lets_parse_apache_logs
+dig_the-data
+fizzbuzz
+for_best_school
+while_best_school
+until_best_school
+if_9_say_hi
+4_bad_luck_8_is_your_chance
+superstitious_numbers
+clock
+for_ls
+to_file_or_not_to_file
+BekaHabesha@ubuntu$ 
+```
 
 ##
