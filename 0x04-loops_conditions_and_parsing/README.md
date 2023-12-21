@@ -86,7 +86,7 @@
 <H2> <ins>General Learning Objectives</ins> :heavy_check_mark:</H2>
 
 * **How to create <ins>SSH keys</ins>.**
-* **What is the <ins>advantage</ins> of using** ${{\color{red}{\textsf{ #!/usr/bin/env bash\ \}}}}$ **over** ${{\color{red}{\textsf{ #!/bin/bash\ \}}}}$
+* **What is the <ins>advantage</ins> of using** ${{\color{red}{\textsf{ '#!/usr/bin/env bash'\ \}}}}$ **over** ${{\color{red}{\textsf{ `#!/bin/bash`\ \}}}}$
 * **How to <ins>use</ins>** ${{\color{red}{\textsf{ while,\ \}}}}$ ${{\color{red}{\textsf{ until\ \}}}}$ **and** ${{\color{red}{\textsf{ for\ \}}}}$ **loops.**
 * **How to <ins>use</ins>** ${{\color{red}{\textsf{ if,\ \}}}}$ ${{\color{red}{\textsf{ else,\ \}}}}$ ${{\color{red}{\textsf{ elif\ \}}}}$ **and** ${{\color{red}{\textsf{ case\ \}}}}$ **condition statements.**
 * **How to <ins>use</ins> the** ${{\color{red}{\textsf{ cut\ \}}}}$ **command.**
