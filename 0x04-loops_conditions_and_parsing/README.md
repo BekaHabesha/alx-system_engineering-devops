@@ -1,6 +1,8 @@
 <H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
 <H1 align="center"> <ins>  0x04. Loops, conditions and parsing README.md</ins> </H1>
 
+# About ${{\color{red}\Huge\{\textsf{ Bash\}}}}$ projects
+
 ### **man or help:** :heavy_check_mark:
 * ${{\color{red}{\textsf{ env\ \}}}}$
 * $\mathscr{\color{red}{cut}}$
