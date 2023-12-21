@@ -1,43 +1,18 @@
 <H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
 <H1 align="center"> <ins>  0x04. Loops, conditions and parsing README.md</ins> </H1>
 
-# About ${{\color{red}\Huge\{\textsf{ Bash\}}}}$ projects
-
-### **man or help:** :heavy_check_mark:
-* ${{\color{red}{\textsf{ env\ \}}}}$
-* $\mathscr{\color{red}{cut}}$
-* ${{\color{red}{\textsf{ for\ \}}}}$
-* $\mathscr{\color{red}{while}}$
-* ${{\color{red}{\textsf{ until\ \}}}}$
-* $\mathscr{\color{red}{if}}$
-
-### **man or help:** :heavy_check_mark:
-* $\mathscr{\color{red}{env}}$
-* $\mathscr{\color{red}{cut}}$
-* $\mathscr{\color{red}{for}}$
-* $\mathscr{\color{red}{while}}$
-* $\mathscr{\color{red}{until}}$
-* $\mathscr{\color{red}{if}}$
-* ${{\color{red}{\textsf{ while\ \}}}}$
-* ${{\color{red}{\textsf{ [**Make your scripts portable**](https://intranet.alxswe.com/rltoken/O0Ay21p7tDhfLMsYbtAKug)\ \}}}}$
-
-* ${{\color{red}{\textsf{ [**Make your scripts portable**]\ \}}}}$(https://intranet.alxswe.com/rltoken/O0Ay21p7tDhfLMsYbtAKug)
-
-* $\mathscr{\color{red}{[**Make your scripts portable**](https://intranet.alxswe.com/rltoken/O0Ay21p7tDhfLMsYbtAKug)}}$
-
 <p align="center">
-  <img src="https://i.ibb.co/WfGQF14/0x0-C-Python-Almost-a-circle-Alx-enginn-logo.png" />
+  <img src="https://i.ibb.co/tYmX3VF/0x04-Loops-conditions-and-parsing-Alx-logo.png" />
 </p>
 
 ##
 
-* **File_name:** <ins>**README.md file**</ins>
+* **File_name:** [**README.md file**](https://github.com/BekaHabesha/alx-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/README.md)
 * **Created:** <ins>**On December 21, 2023**</ins>
-* **Author:** <ins>***Bereket Dereje Mekkonen***</ins>
-* **Project:** [**0x04. Loops, conditions and parsing**](https://intranet.alxswe.com/projects/331#task-2486)
+* **Author:** [***Bereket Dereje Mekkonen***](https://intranet.alxswe.com/users/Bereket Dereje Mekonnen)
+* **Project:** [**0x04. Loops, conditions and parsing**](https://intranet.alxswe.com/projects/251)
 * **GitHub repository:** 📂 [**alx-system_engineering-devops**](https://github.com/BekaHabesha/alx-system_engineering-devops)
-* **Directory:** 📂 [**0x04-loops_conditions_and_parsing**](https://github.com/BekaHabesha/alx-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing
-)
+* **Directory:** 📂 [**0x04-loops_conditions_and_parsing**](https://github.com/BekaHabesha/alx-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing)
 * **Project Tasks:** <ins>**Mandatory and Advanced**</ins>
 * **Tasks in number:** <ins>**15 Tasks (11-Mandatory & 4-Advanced)**</ins>
 * **Mandatory_Tasks:** <ins>**From Task 0 to 10**</ins>
@@ -51,11 +26,11 @@
                      
 ##
 
-## <ins>**PROJECT_TITLE</ins>:**   [**0x04. Loops, conditions and parsing**](https://intranet.alxswe.com/projects/331#task-2486)
+## <ins>**PROJECT_TITLE</ins>:**   [**0x04. Loops, conditions and parsing**](https://intranet.alxswe.com/projects/251)
 
 ## <ins>**GITHUB_REPOSITORY</ins>: 📂**    [**alx-system_engineering-devops**](https://github.com/BekaHabesha/alx-system_engineering-devops)
 
-## <ins>**DIRECTORY</ins>: 📂**   [**0x04-loops_conditions_and_parsing**](https://github.com/BekaHabesha/alx-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing
+## <ins>**DIRECTORY</ins>: 📂**   [**0x04-loops_conditions_and_parsing**](https://github.com/BekaHabesha/alx-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing)
 
 ###
 
@@ -64,75 +39,43 @@
 </p>
 
 
-<h1> <ins>Test Files Folder</ins> 📂 :heavy_check_mark: 📂</H1>
+# About ${{\color{red}\Huge\{\textsf{ Bash\}}}}$ projects 
 
-* [**tests/test_models**](./tests/test_models) **:** <ins>**is a Folder of Project test files<ins>.**   
-
-* Files inside [**tests/test_models**](./tests/test_models) Folder 📂 are 
-  * [**test_base.py**](./tests/test_models/test_base.py)
-  * [**test_rectangle.py**](./tests/test_models/test_rectangle.py)
-  * [**test_square.py**](./tests/test_models/test_square.py)
-
-<h1> <ins>Models Files Folder</ins> 📂 :heavy_check_mark: 📂</H1>
-
-* [**models**](./models)<ins> **:** **is a Folder of Project Python package<ins>.**   
-
-* Files inside [**models**](./models) Folder 📂 are 
-  * [**__init__.py**](./models/__init__.py)
-  * [**base.py**](./models/base.py)
-  * [**rectangle.py**](./models/rectangle.py)
-  * [**square.py**](./models/square.py)
-
-###test_base.cpython-310.pyc test_rectangle.cpython-310.pyc test_square.cpython-310.pyc
-
-<p align="center">
-  <img src="https://pynative.com/wp-content/uploads/2021/07/file_handling_in_python.png" />
-  <img src="https://swiftunboxed.com/images/encode-magic.png" />
-</p>
+* **<ins>Unless stated</ins>, all your projects will be <ins>auto-corrected with Ubuntu 20.04 LTS</ins>.**
 
 <h1> <ins>Background Context</ins> :floppy_disk:</H1>
 
-* The AirBnB project is a big part of the Higher level curriculum. This project will help you be ready for it.
-
-* In this project, you will review everything about Python:
-  * **Import**
-  * **Exceptions**
-  * **Class**
-  * **Private attribute**
-  * **Getter/Setter**
-  * **Class method**
-  * **Static method**
-  * **Inheritance**
-  * **Unittest**
-  * **Read/Write file**
-
-* You will also learn about:
-  * **args and kwargs**
-  * **Serialization/Deserialization**
-  * **JSON**
-
 <p align="center">
-  <video src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/331/giphy.mp4" />
+  <img src="https://i0.wp.com/techieroop.com/wp-content/uploads/2019/06/run-bash-script-in-parallel.png?fit=%2C&ssl=1" />
 </p>
 
 <h1> <ins>Resources</ins> :floppy_disk:</H1>
 
 ### **Read or watch:** :heavy_check_mark:
-* [**args/kwargs**](https://intranet.alxswe.com/rltoken/7gc6UzxSL81HcuAwklUbuQ)
-* [**JSON encoder and decoder**](https://intranet.alxswe.com/rltoken/rGVU9mt57rVURGnjK6n4_Q)
-* [**unittest module**](https://intranet.alxswe.com/rltoken/soictNXCPE18ASL3INoeew)
-* [**Python test cheatsheet**](https://intranet.alxswe.com/rltoken/uI9iskBCcNo5pc7j9Vy86A)
+* [**Loops sample**](https://intranet.alxswe.com/rltoken/wT98UJfv_E2tk4yP9PcLLw)
+* [**Variable assignment and arithmetic**](https://intranet.alxswe.com/rltoken/olvOKX699pq50rkHRE5cSA)
+* [**Comparison operators**](https://intranet.alxswe.com/rltoken/HxohzllkOWh0t4dy_HptIQ)
+* [**File test operators**](https://intranet.alxswe.com/rltoken/g8of2ABPEJfCNtPrDQaqVw)
+* [**Make your scripts portable**](https://intranet.alxswe.com/rltoken/O0Ay21p7tDhfLMsYbtAKug)
+
+### **man or help:** :heavy_check_mark:
+* ${{\color{red}{\textsf{ env\ \}}}}$
+* $\mathscr{\color{red}{cut}}$
+* ${{\color{red}{\textsf{ for\ \}}}}$
+* $\mathscr{\color{red}{while}}$
+* ${{\color{red}{\textsf{ until\ \}}}}$
+* $\mathscr{\color{red}{if}}$
+
 
 <p align="center">
-  <img src="https://swiftunboxed.com/images/decode-overview.png" />
-  <img src="https://i.stack.imgur.com/xVhm8.png" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fphoenixnap.com%2Fkb%2Fbash-for-loop&psig=AOvVaw3GxvZNLKKiOIU-vbrqcMc1&ust=1703280084542000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDJrve6oYMDFQAAAAAdAAAAABAR" />
 </p>
 
 ###
 
 <H1><ins>Learning Objectives</ins>:floppy_disk:</H1>
 
-* At the end of this project, You are expected to be able to [**explain to anyone**](https://intranet.alxswe.com/rltoken/SBdRhGGBuqzWcwcuKyapSQ), **Without the help of Google:**
+* At the end of this project, You are expected to be able to [**explain to anyone**](https://intranet.alxswe.com/rltoken/UnkzDNdH09TFJ0-Y56azyg), **Without the help of Google:**
 
 <p align="center">
   <img src="https://www.norberthires.blog/content/images/2022/01/the-feynman-technique.png" />
@@ -142,19 +85,40 @@
 
 <H2> <ins>General Learning Objectives</ins> :heavy_check_mark:</H2>
 
-* **What is <ins>Unit testing</ins> and how to <ins>implement it in a large project</ins>.**
-* **How to <ins>serialize</ins> and <ins>deserialize</ins> a <ins>Class</ins>.**
-* **How to <ins>write</ins> and <ins>read</ins> a <ins>JSON file</ins>.**
-* **What is <ins>*args</ins> and how to <ins>use it</ins>.**
-* __What is <ins>**kwargs</ins> and how to <ins>use it</ins>.__
-* **How to <ins>handle named arguments in a function</ins>.**
+* **How to create <ins>SSH keys</ins>.**
+* **What is the <ins>advantage</ins> of using** ${{\color{red}{\textsf{ #!/usr/bin/env bash\ \}}}}$ **over** ${{\color{red}{\textsf{ #!/bin/bash\ \}}}}$
+* **How to <ins>use</ins>** ${{\color{red}{\textsf{ while,\ \}}}}$ ${{\color{red}{\textsf{ until\ \}}}}$ **and** ${{\color{red}{\textsf{ for\ \}}}}$ **loops.**
+* **How to <ins>use</ins>** ${{\color{red}{\textsf{ if,\ \}}}}$ ${{\color{red}{\textsf{ else,\ \}}}}$ ${{\color{red}{\textsf{ elif\ \}}}}$ **and** ${{\color{red}{\textsf{ case\ \}}}}$ **condition statements.**
+* **How to <ins>use</ins> the** ${{\color{red}{\textsf{ cut\ \}}}}$ **command.**
+* **What are <ins>files</ins> and other <ins>comparison operators</ins> and** **how to <ins>use them</ins>.**
 
 <p align="center">
-  <img src="  <img src="https://drstearns.github.io/tutorials/gojson/img/json-encoder.png" />" />
-  <img src="https://pynative.com/wp-content/uploads/2020/01/python_json_parsing_and_decoding_using_load_and_loads.jpg" />
+  <img src="https://phoenixnap.com/kb/wp-content/uploads/2021/12/indices.sh-for-loop-script.png" />
+  <img src="https://static.javatpoint.com/tutorial/bash/images/bash-for-loop-output2.png" />
 </p>
 
 ###
+
+<H1><ins>Requirements</ins> :floppy_disk:</H1>
+
+<H2>General :heavy_check_mark:</H2>
+
+* Allowed editors: <ins>**vi**</ins>, <ins>**vim**</ins>, <ins>**emacs**</ins>.
+* All your <ins>**files**</ins> will be **interpreted** on <ins>**Ubuntu 20.04 LTS</ins>.**
+* All your <ins>**files**</ins> should **end with a new line**
+* A ${{\color{red}{\textsf{ README.md\ \}}}}$ <ins>**file**</ins>, at the root of the folder of the project is mandatory.
+* All **your Bash script files** must be **executable**.
+* You **are <ins>not allowed**</ins> **to use** ${{\color{red}{\textsf{ awk\ \}}}}$
+* Your **<ins>Bash script**</ins> **must <ins>pass**</ins> ${{\color{red}{\textsf{ Shellcheck\ \}}}}$ (**version** ${{\color{red}{\textsf{ 0.7.0\ \}}}}$ **) without any error.**
+
+* The <ins>**first line of all your Bash scripts</ins>** should be exactly ${{\color{red}{\textsf{ #!/usr/bin/env bash\ \}}}}$
+* The <ins>**second line of all your Bash scripts</ins>** should be a **a comment explaining what is the <ins>script doing</ins>.**
+
+<p align="center">
+  <img src="https://ciracollege.com/wp-content/uploads/2020/11/How-to-Learn-Python.jpg" />
+</p>
+
+##
 
 <H2> <ins>Copyright - Plagiarism</ins> :heavy_check_mark:</H2>
 
@@ -164,28 +128,36 @@
 * Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
 <p align="center">
-  <img src="https://i.ibb.co/8csnv7s/Alx-do-hard-things.jpg" />
+  <img src="https://phoenixnap.com/kb/wp-content/uploads/2021/12/bash-case-shows-file-types.png" />
+  <img src="https://linuxhint.com/wp-content/uploads/2022/03/word-image-922.png" />
 </p>
 
 ##
 
-<H1><ins>Requirements</ins> :floppy_disk:</H1>
+<H1><ins>More Info</ins> :floppy_disk:</H1>
 
-<H2>Python Scripts :heavy_check_mark:</H2>
+<H2>Shellcheck :heavy_check_mark:</H2>
 
-* Allowed editors: <ins>**vi**</ins>, <ins>**vim**</ins>, <ins>**emacs**</ins>.
-* All your <ins>**files**</ins> will be **interpreted/compiled** on <ins>**Ubuntu 20.04 LTS**</ins> Using <ins>**python3**</ins> (version 3.8.5)
-* All your <ins>**files**</ins> should **end with a new line**
-* The <ins>**first line of all your files</ins>** should be exactly <ins>**#!/usr/bin/python3**</ins>
-* A <ins>**README.md file**</ins>, at the root of the folder of the project is mandatory.
-* Your code should use the **pycodestyle** (version 2.8.*). 
-* All **your files** must be **executable**.
-* The length of your files will be tested using **wc**.
-* All your modules should be documented: (**python3 -c 'print(__import__("my_module").__doc__)'**)
-* All your classes should be documented: (**python3 -c 'print(__import__("my_module").MyClass.__doc__)'**)
-* All your functions (inside and outside a class) should be documented: (**python3 -c 'print(__import__("my_module").my_function.__doc__)'**) and (**python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)'**)
-* <ins>***A documentation***</ins> is not a simple word, **it’s a real sentence** explaining **what’s the purpose of the <ins>module</ins>, <ins>class</ins> or <ins>method</ins>** (the length of it will be verified)
+[**Shellcheck**](https://intranet.alxswe.com/rltoken/joK6l_yEZ9N7T0GQ1RDjLA) is a tool that will help you write proper Bash scripts. It will make recommendations on your syntax and semantics and provide advice on edge cases that you might not have thought about. ${{\color{red}{\textsf{ Shellcheck\ \}}}}$ is your friend! **All your Bash scripts must pass** ${{\color{red}{\textsf{ Shellcheck\ \}}}}$ **without any error or you will not get any points on the task.**
 
+
+${{\color{red}{\textsf{ Shellcheck\ \}}}}$ is available on the school’s computers. If you want to use it on your own computer, here is how to [**install it.**](https://intranet.alxswe.com/rltoken/jbz0_-i3TV3WpKgxhyrtpA)
+
+**Examples:**
+
+**Not passing** ${{\color{red}{\textsf{ Shellcheck:\ \}}}}$ 
+
+<p align="center">
+  <img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/251/Vxotqyj.png" />
+</p>
+
+**Passing** ${{\color{red}{\textsf{ Shellcheck:\ \}}}}$ 
+
+<p align="center">
+  <img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/251/ubHWxDU.png" />
+</p>
+
+For every feedback, Shellcheck will provide a code that you can use to get more information about the issue, for example for code ${{\color{red}{\textsf{ SC2034\ \}}}}$, you can browse ${{\color{red}{\textsf{ https://github.com/koalaman/shellcheck/wiki/SC2034.\ \}}}}$
 
 <p align="center">
   <img src="https://ciracollege.com/wp-content/uploads/2020/11/How-to-Learn-Python.jpg" />
@@ -193,53 +165,34 @@
 
 ##
 
-<H2>Python Unit Tests :heavy_check_mark:</H2>
+## <ins>**PROJECT_TITLE</ins>:**   [**0x04. Loops, conditions and parsing**](https://intranet.alxswe.com/projects/251)
 
-* Allowed editors: <ins>**vi**</ins>, <ins>**vim**</ins>, <ins>**emacs**</ins>.
-* All your <ins>**files**</ins> should **end with a new line**
-* All your <ins>**test files**</ins> should be **inside a folder <ins>tests</ins>**
-* You have to use the [unittest module](https://intranet.alxswe.com/rltoken/soictNXCPE18ASL3INoeew)
-* All your <ins>**test files**</ins> should be **python files (extension: <ins>.py</ins>**
-* All your <ins>**test files**</ins> and <ins>**folders**</ins> should start with **test_**
-* Your <ins>**file organization</ins>** in the <ins>**tests folder</ins>** should be the same as your project: ex: for <ins>**models/base.py<ins>**, <ins>**unit tests<ins>** must be in: **tests/test_models/test_base.py**
-* All your <ins>**tests</ins>** should be **executed by using this command: <ins>python3 -m unittest discover tests<ins>**
-* You can also <ins>**test file</ins>** by file by **using this command: <ins>python3 -m unittest</ins>** [**tests/test_models/test_base.py**](./tests/test_models/test_base.py)
-* We **strongly encourage** you to **work together on test cases**, so that **you don’t miss any edge case.**
+## <ins>**GITHUB_REPOSITORY</ins>: 📂**    [**alx-system_engineering-devops**](https://github.com/BekaHabesha/alx-system_engineering-devops)
 
-<p align="center">
-  <img src="https://files.realpython.com/media/Getting-Started-with-Testing-in-Python_Watermarked.9f22be97343d.jpg" />
-</p>
-
-##
-
-## <ins>**PROJECT_TITLE</ins>:**   [**0x0C. Python - Almost a circle**](https://intranet.alxswe.com/projects/331#task-2486)
-
-## <ins>**GITHUB_REPOSITORY</ins>: 📂**    [**alx-higher_level_programming**](https://github.com/BekaHabesha/alx-higher_level_programming)
-
-## <ins>**DIRECTORY</ins>: 📂**   [**0x0C-python-almost_a_circle**](https://github.com/BekaHabesha/alx-higher_level_programming/tree/master/0x0C-python-almost_a_circle)
+## <ins>**DIRECTORY</ins>: 📂**   [**0x04-loops_conditions_and_parsing**](https://github.com/BekaHabesha/alx-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing
 
 ##
 
 * **File_name:** 
   * <ins>**README.md file**</ins>
 * **Created:** 
-  * <ins>**On December 9, 2023**</ins>
+  * <ins>**On December 21, 2023**</ins>
 * **Author:** 
   * <ins>***Bereket Dereje Mekkonen***</ins>
 * **Project:** 
-  * [**0x0C. Python - Almost a circle**](https://intranet.alxswe.com/projects/331#task-2486)
+  * [**0x04. Loops, conditions and parsing**](https://intranet.alxswe.com/projects/251)
 * **GitHub repository:** 📂
-  * [**alx-higher_level_programming**](https://github.com/BekaHabesha/alx-higher_level_programming)
+  * [**alx-system_engineering-devops**](https://github.com/BekaHabesha/alx-system_engineering-devops)
 * **Directory:** 📂
-  * [**0x0C-python-almost_a_circle**](https://github.com/BekaHabesha/alx-higher_level_programming/tree/master/0x0C-python-almost_a_circle)
+  * [**0x04-loops_conditions_and_parsing**](https://github.com/BekaHabesha/alx-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing
 * **Project Tasks:** 
   * <ins>**Mandatory and Advanced**</ins>
 * **Tasks in number:** 
-  * <ins>**22 Tasks (20-Mandatory & 2-Advanced)**</ins>
+  * <ins>**15 Tasks (11-Mandatory & 4-Advanced)**</ins>
 * **Mandatory_Tasks:** 
-  * <ins>**From Task 0 to 19**</ins>
+  * <ins>**From Task 0 to 10**</ins>
 * **Advanced_Tasks:** 
-  * <ins>**From Task 20 to 21**</ins>
+  * <ins>**From Task 11 to 14**</ins>
 
 ###
 
@@ -251,94 +204,174 @@
 
 <H1 align="center">MANDATORY_TASKS (From Task 0 to 10) :cd:</h1>
 
-## **No. 0. If it's not tested it doesn't work** :heavy_check_mark:
+## **No. 0. Create a SSH RSA key pair** :heavy_check_mark:
 * **File:**
-  * [**tests/**](./tests/)
+  * [**0-RSA_public_key.pub**](./0-RSA_public_key.pub)
 ###
-* **All your** <ins>**files</ins>,** <ins>**classes</ins> and** **<ins>methods</ins> must be** **<ins>unit tested</ins> and be <ins>PEP 8 validated</ins>.**
+* <ins>**Read for this task</ins>:**
+  * [**Linux and Mac OS users**](https://intranet.alxswe.com/rltoken/Cy1plV2eR3VphjPqliXB8A)
+  * [**Windows users**](https://intranet.alxswe.com/rltoken/074M_gTsD34x3Q6MX55PDw)
 
-![BekiHabesha.]( https://i.ibb.co/S5z19kV/00-main-0x0-C-Python-Almost-a-circle.png)
+**man:** ${{\color{red}{\textsf{ ssh-keygen\ \}}}}$ 
 
-> [!NOTE]
-> ***Note that this is just an example. The number of tests you create can be different from the above example.***
+You will soon have to manage your own **servers** concept page hosted on remote [**data centers**](https://intranet.alxswe.com/rltoken/nDPzEm5SYxcdGxP_OpVYXQ). We need to set them up with your RSA public key so that you can access them via SSH.
+
+**Create a RSA key pair.**
+
+* **<ins>Requirements</ins>:**
+  * Share your **public key** in your answer file ${{\color{red}{\textsf{ 0-RSA_public_key.pub\ \}}}}$
+  * Fill the ${{\color{red}{\textsf{ SSH public key\ \}}}}$ field of your [**intranet profile**](https://intranet.alxswe.com/rltoken/qsaEQ3ZWrgs-zoueDpXpPA) with the public key you just generated.
+  * **Keep the private key to yourself in a secure location**, you will use it later to connect to your servers using SSH. Some storing ideas are Dropbox, Google Drive, password manager, USB key. Failing to do so will prevent you to access your servers, which will prevent you from doing your projects.
+  * If you decide to add a passphrase to your key, make sure to save this passphrase in a secure location, you will not be able to use your keys without the passphrase.
+
+SSH and RSA keys will be covered in depth in a later project.
 
 ##
 
-## **No. 1. Base class**:heavy_check_mark:
+## **No. 1. For Best School loop**:heavy_check_mark:
 * **File:**
-  * [**models/base.py**](./models/base.py),
-  * [**models/__init__.py**](./models/__init__.py)
+  * [**1-for_best_school**](./1-for_best_school)
 ###
-* **Write the first class** <ins>**Base</ins>:**
-* **Create a folder named** <ins>**models</ins>** with an empty file **__init__.py** <ins>**inside - with this file</ins>,** the **folder will become a <ins>Python package</ins>.**
-###
-* **Create a file named** <ins>**models/base.py</ins>:**
-  * **Class <ins>Base</ins>:**
-    * **<ins>private class attribute</ins>:**  **__nb_objects = 0**
-    * **<ins>class constructor</ins>:**  **def __init__(self, id=None):** :
-      * **If <ins>id</ins> is not <ins>None</ins>,** assign the **<ins>public instance attribute id</ins> with this </ins>argument value</ins> -** you can **assume <ins>id</ins> is an </ins>integer</ins> and you don’t need to test the type of it.**
-      * **otherwise, <ins>increment</ins> __nb_objects,** and assign the **<ins>new value to the public instance attribute id</ins>.**
-#####
-* **This class will be the <ins>“base”</ins> of all <ins>other classes in this project</ins>.** **The <ins>goal</ins> of it is <ins>to manage id attribute in all your future classes</ins> and <ins>to avoid duplicating the same code<ins>** (by extension, same bugs)
+* **Write a <ins>**Bash script</ins> that displays** ${{\color{red}{\textsf{ Best School\ \}}}}$ <ins>**10 times</ins>.**
 
-![BekiHabesha.]( https://i.ibb.co/CKjp27r/0-main-0x0-C-Python-Almost-a-circle.png)
+* **<ins>Requirements</ins>:**
+  * You must **use** the ${{\color{red}{\textsf{ for\ \}}}}$ **loop** (${{\color{red}{\textsf{ while\ \}}}}$ and ${{\color{red}{\textsf{ until\ \}}}}$ are forbidden)
+
+```js
+BekaHabesha@ubuntu$ head -n 2 1-for_best_school 
+#!/usr/bin/env bash
+# This script is displaying "Best School" 10 times
+BekaHabesha@ubuntu$ ./1-for_best_school 
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+BekaHabesha@ubuntu$ 
+```
+
+* **<ins>Note that</ins>:**
+  * **The first line of my Bash script starts with** ${{\color{red}{\textsf{ #!/usr/bin/env bash\ \}}}}$ 
+  * The second line of my Bash scripts is a comment explaining what it is doing.
 
 ##
 
-## **No. 2. First Rectangle**:heavy_check_mark:
+## **No. 2. While Best School loop** :heavy_check_mark:
 * **File:**
-  * [**models/rectangle.py**](./models/rectangle.py)
+  * [**2-while_best_school**](./2-while_best_school)
 ###
-* **Write the class** <ins>**Rectangle</ins> that inherits from <ins>Base</ins>:**
-  * **In the file [models/rectangle.py](./models/rectangle.py)**
-  * **Class <ins>Rectangle</ins> inherits from <ins>Base</ins>**
-  * **<ins>private class attribute</ins>, each with its own <ins>public getter</ins> and <ins>setter</ins>:**
-    * **__width** -> **width**
-    * **__height** -> **height**
-    * **__x** -> **x**
-    * **__y** -> **y**
-  * **<ins>class constructor</ins>:**  **def __init__(self, width, height, x=0, y=0, id=None)** :
-      * Call the **super class** with **<ins>id</ins> -** this **super call** with use the **<ins>logic</ins>** of the **__init__** of the **<ins>Base</ins> class.**
-      * **Assign each argument <ins>width</ins>, <ins>height</ins>, <ins>x</ins> and <ins>y</ins> to the right attribute.**
-#####
-* **Why private attributes with getter/setter? Why not directly public attribute?** <br>
+* **Write a <ins>**Bash script</ins> that displays** ${{\color{red}{\textsf{ Best School\ \}}}}$ <ins>**10 times</ins>.**
 
-Because we want to protect attributes of our class. With a setter, you are able to validate what a developer is trying to assign to a variable. So after, in your class you can “trust” these attributes.
+* **<ins>Requirements</ins>:**
+  * You must **use** the ${{\color{red}{\textsf{ while\ \}}}}$ **loop** (${{\color{red}{\textsf{ for\ \}}}}$ and ${{\color{red}{\textsf{ until\ \}}}}$ are forbidden)
 
-![BekiHabesha.]( https://i.ibb.co/jMW5RNH/1-main-0x0-C-Python-Almost-a-circle.png)
+```js
+BekaHabesha@ubuntu$ ./2-while_best_school
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+BekaHabesha@ubuntu$ 
+```
 
 ##
 
-## **No. 3. Validate attributes**:heavy_check_mark:
+## **No. 3. Until Best School loop** :heavy_check_mark:
 * **File:**
-  * [**models/rectangle.py**](./models/rectangle.py)
+  * [**3-until_best_school**](./3-until_best_school)
 ###
-* **Update the class** <ins>**Rectangle**</ins> by **adding validation of all <ins>setter methods</ins> and <ins>instantiation</ins>** (<ins>**id</ins>** excluded) **:**
-  * **If the <ins>input</ins> is not an integer,** raise the <ins>**TypeError</ins> exception** with the **message: <ins><name of the attribute> must be an integer<ins>.** Example: **<ins>width must be an integer<ins>**
-  * **If <ins>width</ins> or <ins>height</ins> is under or equals 0,** raise the <ins>**ValueError</ins> exception** with the **message: <ins><name of the attribute> must be > 0<ins>.** Example: **<ins>width must be > 0<ins>**
-  * **If <ins>x</ins> or <ins>y</ins> is under 0,** raise the <ins>**ValueError</ins> exception** with the **message: <ins><name of the attribute> must be >= 0<ins>.** Example: **<ins>x must be >= 0<ins>**
+* **Write a <ins>**Bash script</ins> that displays** ${{\color{red}{\textsf{ Best School\ \}}}}$ <ins>**10 times</ins>.**
 
-![BekiHabesha.]( https://i.ibb.co/0MKN2Z6/2-main-0x0-C-Python-Almost-a-circle.png)
+* **<ins>Requirements</ins>:**
+  * You must **use** the ${{\color{red}{\textsf{ until\ \}}}}$ **loop** (${{\color{red}{\textsf{ for\ \}}}}$ and ${{\color{red}{\textsf{ while\ \}}}}$ are forbidden)
+
+```js
+BekaHabesha@ubuntu$ ./3-until_best_school
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+BekaHabesha@ubuntu$ 
+```
+##
+
+## **No. 4. If 9, say Hi!**:heavy_check_mark:
+* **File:**
+  * [**4-if_9_say_hi**](./4-if_9_say_hi)
+###
+* **Write a <ins>**Bash script</ins> that displays** ${{\color{red}{\textsf{ Best School\ \}}}}$ <ins>**10 times</ins>,** but for the 9th iteration, displays ${{\color{red}{\textsf{ Best School\ \}}}}$ and then ${{\color{red}{\textsf{ Hi\ \}}}}$ on a new line.
+
+* **<ins>Requirements</ins>:**
+  * You must **use** the ${{\color{red}{\textsf{ while\ \}}}}$ **loop** (${{\color{red}{\textsf{ for\ \}}}}$ and ${{\color{red}{\textsf{ until\ \}}}}$ are forbidden)
+  * You must **use** the ${{\color{red}{\textsf{ if\ \}}}}$ **statement**
+
+```js
+BekaHabesha@ubuntu$ ./4-if_9_say_hi
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+Hi
+Best School
+BekaHabesha@ubuntu$ 
+```
 
 ##
 
-## **No. 4. Area first**:heavy_check_mark:
-* **File:**
-  * [**models/rectangle.py**](./models/rectangle.py)
-###
-* **Update the class** <ins>**Rectangle**</ins> by **adding the public method [def area(self):](./models/rectangle.py)** that returns the area value of the <ins>**Rectangle**</ins> instance.
-
-![BekiHabesha.]( https://i.ibb.co/4VZQWWF/3-main-0x0-C-Python-Almost-a-circle.png)
-
 ##
 
-## **No. 5. Display #0**:heavy_check_mark:
+## **No. 5. 4 bad luck, 8 is your chance**:heavy_check_mark:
 * **File:**
-  * [**models/rectangle.py**](./models/rectangle.py)
+  * [**5-4_bad_luck_8_is_your_chance**](./5-4_bad_luck_8_is_your_chance)
 ###
-* **Update the class** <ins>**Rectangle**</ins> by **adding the public method [def display(self):](./models/rectangle.py)** prints in stdout the <ins>**Rectangle**</ins> instance with the character <ins>**#</ins>** - you don’t need to handle <ins>**x</ins>** and <ins>**y</ins>** here.
+* **Write a <ins>**Bash script</ins> loops from 1 to 10 and:**
+  * displays ${{\color{red}{\textsf{ bad luck\ \}}}}$ for the 4th loop iteration
+  * displays ${{\color{red}{\textsf{ good luck\ \}}}}$ for the 8th loop iteration
+  * displays ${{\color{red}{\textsf{ Best School\ \}}}}$ for the other iteration
 
-![BekiHabesha.]( https://i.ibb.co/fXtHfvS/4-main-0x0-C-Python-Almost-a-circle.png)
+* **<ins>Requirements</ins>:**
+  * You must **use** the ${{\color{red}{\textsf{ while\ \}}}}$ **loop** (${{\color{red}{\textsf{ for\ \}}}}$ and ${{\color{red}{\textsf{ until\ \}}}}$ are forbidden)
+  * You must **use** the ${{\color{red}{\textsf{ if\ \}}}}$, ${{\color{red}{\textsf{ elif\ \}}}}$ and ${{\color{red}{\textsf{ else\ \}}}}$ **statements**
+
+```js
+BekaHabesha@ubuntu$ ./5-4_bad_luck_8_is_your_chance
+Best School
+Best School
+Best School
+bad luck
+Best School
+Best School
+Best School
+good luck
+Best School
+Best School
+BekaHabesha@ubuntu$ 
+```
+
+* <ins>**For the most curious</ins>:**
+  * [**8 in the Chinese culture**](https://intranet.alxswe.com/rltoken/uhCfz6ariijQvbvmCyYRMg)
+  * [**4 in the Chinese culture**](https://intranet.alxswe.com/rltoken/WwpjD57ABmwWSfdUVcBhNg)
 
 ##
 
