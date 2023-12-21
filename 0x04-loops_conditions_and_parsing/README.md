@@ -2,6 +2,14 @@
 <H1 align="center"> <ins>  0x04. Loops, conditions and parsing README.md</ins> </H1>
 
 ### **man or help:** :heavy_check_mark:
+* ${{\color{red}{\textsf{ env\ \}}}}$
+* $\mathscr{\color{red}{cut}}$
+* ${{\color{red}{\textsf{ for\ \}}}}$
+* $\mathscr{\color{red}{while}}$
+* ${{\color{red}{\textsf{ until\ \}}}}$
+* $\mathscr{\color{red}{if}}$
+
+### **man or help:** :heavy_check_mark:
 * $\mathscr{\color{red}{env}}$
 * $\mathscr{\color{red}{cut}}$
 * $\mathscr{\color{red}{for}}$
