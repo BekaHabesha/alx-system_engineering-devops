@@ -9,6 +9,10 @@
 * $\mathscr{\color{red}{until}}$
 * $\mathscr{\color{red}{if}}$
 * ${{\color{red}{\textsf{ while\ \}}}}$
+* ${{\color{red}{\textsf{ [**Make your scripts portable**](https://intranet.alxswe.com/rltoken/O0Ay21p7tDhfLMsYbtAKug)\ \}}}}$
+
+* ${{\color{red}{\textsf{ [**Make your scripts portable**]\ \}}}}$(https://intranet.alxswe.com/rltoken/O0Ay21p7tDhfLMsYbtAKug)
+
 
 <p align="center">
   <img src="https://i.ibb.co/WfGQF14/0x0-C-Python-Almost-a-circle-Alx-enginn-logo.png" />
