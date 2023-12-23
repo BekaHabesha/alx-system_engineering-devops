@@ -35,13 +35,15 @@ Module of <ins>**System engineering</ins>** and <ins>**Devops</ins>**, carried o
 
 # <ins> 🗂PROJECT DIRECTORIES</ins> 🗂<br> Inside [**alx-system_engineering-devops**](https://github.com/BekaHabesha/alx-system_engineering-devops) **Repository** :floppy_disk: </H1>
 
-|  | <H3 align="center">🗄💾 GitHub Repository 📀📚 </H3> |  |
-| :----: | :----:| :---- |
-|   |   |   |
-|   |   |   |
-|   | [**alx-system_engineering-devops**](https://github.com/BekaHabesha/alx-system_engineering-devops) |  |
-|   |   |   |
-|   |   |   |
+
+
+|  |  |  |  |  |  |  | <H3 align="center">🗄💾 GitHub Repository 📀📚 </H3> |  |  |  |  |  |  |  |
+| :----: | :----:| :---- | :----: | :----:| :---- | :----: | :----:| :---- | :----: | :----:| :---- | :----: | :----:| :---- |
+|   |  |  |  |  |  |  |   |   |   |  |  |  |  |  |
+|   |  |  |  |  |  |  |   |   |   |  |  |  |  |  |
+|  |  |  |  |  |  |   |   | [**alx-system_engineering-devops**](https://github.com/BekaHabesha/alx-system_engineering-devops) |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |   |   |   |  |  |  |  |  |
+|  |  |  |  |  |  |  |   |   |   |  |  |  |  |  |
 
 | <H3 align="center">🗂 Project Directory 📁 </H3> | <H3 align="center">📝Project Title🔠</H3> | <H3 align="center">🌎Resources 💎 </H3> | 
 | :----: | :----:| :---- |
