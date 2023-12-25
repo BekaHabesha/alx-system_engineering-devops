@@ -802,7 +802,7 @@ BekaHabesha@ubuntu$
 * **Write a** <ins>**Bash script</ins> that displays the visitor IP along with the** [**HTTP status code**](https://intranet.alxswe.com/rltoken/7de-UBmf8xgwH1iSwzX1MA) from the <ins>**Apache log file</ins>.**
 #####
 * **<ins>Requirements</ins>:**
-  * **<ins>Format</ins>:** ${{\color{red}{\textsf{ IP HTTP_CODE\ \}}}}$
+  * **<ins>Format</ins>:** ${{\color{red}{\textsf{ IP\ \}}}}$ $\mathcal{\color{red}{HTTP_CODE}}$
     * **in a <ins>list format</ins>**
     * **See example**
   * You must **use** ${{\color{red}{\textsf{ awk\ \}}}}$ 
@@ -838,7 +838,7 @@ BekaHabesha@ubuntu$
 #####
 * **<ins>Requirements</ins>:**
   * **The exact format must be:** 
-    * ${{\color{red}{\textsf{ OCCURENCE_NUMBER IP HTTP_CODE\ \}}}}$
+    * $\mathcal{\color{red}{OCCURENCE_NUMBER}}$ ${{\color{red}{\textsf{ IP\ \}}}}$ $\mathcal{\color{red}{HTTP_CODE}}$
     * ${{\color{red}{\textsf{ In list format\ \}}}}$
   * **Ordered from the greatest to the lowest number of occurrences** 
     * ${{\color{red}{\textsf{ See example\ \}}}}$
