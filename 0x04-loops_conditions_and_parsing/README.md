@@ -730,7 +730,7 @@ BekaHabesha@ubuntu$
   * [**101-tell_the_story_of_passwd**](./101-tell_the_story_of_passwd)
 ###
 <p align="center">
-  <img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/03ca27392c6338e696fc0c3b08765f02c98457a1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231225T180646Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ae382113a927d26948b0659590245f4d55d84ea3ac3027b5cfa6c267ad5ec840" />
+  <img src="https://i.ibb.co/TWpvnc3/for-no-12.jpg" />
 </p>
 
 ###
