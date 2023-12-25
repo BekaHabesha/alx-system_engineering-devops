@@ -742,7 +742,7 @@ BekaHabesha@ubuntu$
 #####
 * **Write a** <ins>**Bash script</ins> that displays the content of the file** [**/etc/passwd**](https://intranet.alxswe.com/rltoken/jm2-sSa3VlvI4zgRdreAsg)  using the ${{\color{red}{\textsf{ while\ \}}}}$ **<ins>loop</ins> + <ins>IFS</ins>.**
 #####
-* **<ins>Format</ins>:** displays $\mathfrak{\color{red}{The \ user \ USERNAME \ is \ part \ of \ the \ GROUP_ID \ gang, \ lives \ in \ HOME_DIRECTORY \ and \ rides \ COMMAND \ or \ SHELL. \ USER \ ID's \ place \ is \ protected \ by \ the \ passcode \ PASSWORD, \ more \ info \ about \ the \ user \ here: \ USER \ ID \ INFO}}$
+* **<ins>Format</ins>:** displays ${{\color{red}{\textsf{ The user USERNAME is part of the\ \}}}}$ $\mathcal{\color{red}{GROUP_ID}}$ ${{\color{red} {\textsf{ gang, lives in\ \}}}}$ $\mathcal{\color{red}{HOME_DIRECTORY}}$ ${{\color{red} {\textsf{ and rides COMMAND or SHELL. USER ID's place is protected by the passcode PASSWORD, more info about the user\ \}}}}$ $\mathfrak{\color{red}{here:}}$ ${{\color{red} {\textsf{ USER ID INFO\ \}}}}$
 #####
 * **<ins>Requirements</ins>:**
   * You must **use** the ${{\color{red}{\textsf{ while\ \}}}}$ **loop** (${{\color{red}{\textsf{ for\ \}}}}$ and ${{\color{red}{\textsf{ until\ \}}}}$ are forbidden)
