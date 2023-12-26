@@ -298,7 +298,7 @@ BekaHabesha@ubuntu$
 ```
 ###
 * **<ins>Here we can see that</ins>:**
-  * **For the first iteration:** ${{\color{red}{\textsf{ bash\ \}}}}$ **PID** is (${{\color{red}{\textsf{ 4404\ \}}}}$ and that the $\mathbb{\color{red}{3\-\show_your_bash_pid_made_easy}}$ **script PID** is ${{\color{red}{\textsf{ 4555\ \}}}}$ .
+  * **For the first iteration:** ${{\color{red}{\textsf{ bash\ \}}}}$ **PID** is (${{\color{red}{\textsf{ 4404\ \}}}}$ and that the $\mathbb{\color{red}{3- \show \_ \your \_ \bash \_ \pid \_ \made \_ \easy}}$ **script PID** is ${{\color{red}{\textsf{ 4555\ \}}}}$ .
 
 ${{\color{red}{\textsf{ 3-\ \}}}}$${{\color{red}{\textsf{ show_your\ \}}}}$${{\color{red}{\textsf{ _bash\ \}}}}$${{\color{red}{\textsf{ _pid\ \}}}}$${{\color{red}{\textsf{ _made\ \}}}}$${{\color{red}{\textsf{ _easy\ \}}}}$
 
