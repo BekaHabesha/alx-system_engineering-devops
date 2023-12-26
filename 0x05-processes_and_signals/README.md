@@ -296,8 +296,8 @@ BekaHabesha@ubuntu$
 ```
 ###
 * **<ins>Here we can see that</ins>:**
-  * **For the first iteration:** ${{\color{red}{\textsf{ bash\ \}}}}$ **PID** is (${{\color{red}{\textsf{ 4404\ \}}}}$ and that the $\mathcal{\color{red}{3\-\show_your_bash_pid_made_easy}}$ **script PID** is ${{\color{red}{\textsf{ 4555\ \}}}}$ .
-  * **For the second iteration:** ${{\color{red}{\textsf{ bash\ \}}}}$ **PID** is (${{\color{red}{\textsf{ 4404\ \}}}}$ and that the $\mathcal{\color{red}{3-show_your_bash_pid_made_easy}}$ **script PID** is ${{\color{red}{\textsf{ 4557\ \}}}}$ .
+  * **For the first iteration:** ${{\color{red}{\textsf{ bash\ \}}}}$ **PID** is (${{\color{red}{\textsf{ 4404\ \}}}}$ and that the $\mathbb{\color{red}{3\-\show_your_bash_pid_made_easy}}$ **script PID** is ${{\color{red}{\textsf{ 4555\ \}}}}$ .
+  * **For the second iteration:** ${{\color{red}{\textsf{ bash\ \}}}}$ **PID** is (${{\color{red}{\textsf{ 4404\ \}}}}$ and that the $\mathscr{\color{red}{3-show_your_bash_pid_made_easy}}$ **script PID** is ${{\color{red}{\textsf{ 4557\ \}}}}$ .
 
 ##
 
@@ -329,7 +329,7 @@ BekaHabesha@ubuntu$
 * **File:**
   * [**5-dont_stop_me_now**](./5-dont_stop_me_now)
 ###
-* **We stopped our** $\mathcal{\color{red}{4-to_infinity_and_beyond}}$ process using ${{\color{red}{\textsf{ ctrl+c\ \}}}}$ in the previous task, there is actually another way to do this.
+* **We stopped our** $\mathfrak{\color{red}{4-to_infinity_and_beyond}}$ process using ${{\color{red}{\textsf{ ctrl+c\ \}}}}$ in the previous task, there is actually another way to do this.
 ###
 * **Write a <ins>**Bash script</ins> that stops** $\mathcal{\color{red}{4-to_infinity_and_beyond}}$ <ins>**process</ins>.** 
 ###
