@@ -573,7 +573,7 @@ BekaHabesha@ubuntu$
     * **Creates a file containing its PID in**$\mathcal{\color{red}{/var/run/}}$[**my_process**](./manage_my_process)${{\color{red}{\textsf{ .pid\ \}}}}$ **.** 
     * **Displays** ${{\color{red}{\textsf{ Usage:\ \}}}}$ [**my_process**](./manage_my_process) [**{start|stop|restart}**](./manage_my_process), **if any other argument or no argument is passed.**
 ###
-**Note that this init script is far from being perfect (but good enough for the sake of manipulating process and PID file), for example we do not handle the case where we check if a process is already running when doing** **./**[**101-manage_my_process start**](./101-manage_my_process start) , **in our case it will simply create a new process instead of saying that it is already started.**
+**Note that this init script is far from being perfect (but good enough for the sake of manipulating process and PID file), for example we do not handle the case where we check if a process is already running when doing** <ins>**./101-manage_my_process start</ins>** , **in our case it will simply create a new process instead of saying that it is already started.**
 ###
 ```js
 BekaHabesha@ubuntu$ ./101-manage_my_process
