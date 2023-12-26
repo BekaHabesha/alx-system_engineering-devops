@@ -5,8 +5,6 @@
   <img src="https://i.ibb.co/YbhzbPX/0x05-Processes-and-signals-Alx-logo.png" />
 </p>
 
-${{\color{red}{\textsf{ 3-\ \}}}}$${{\color{red}{\textsf{ show\ \}}}}$${{\color{red}{\textsf{ _\ \}}}}$${{\color{red}{\textsf{ pid\ \}}}}$${{\color{red}{\textsf{ _\ \}}}}$${{\color{red}{\textsf{ easy\ \}}}}$
-
 ##
 
 * **File_name:📋** 📖 [**README.md**](https://github.com/BekaHabesha/alx-system_engineering-devops/blob/master/0x05-processes_and_signals/README.md)
@@ -296,13 +294,10 @@ BekaHabesha@ubuntu$ ./3-show_your_bash_pid_made_easy
 568 bash
 BekaHabesha@ubuntu$ 
 ```
-###
+### 
 * **<ins>Here we can see that</ins>:**
-  * **For the first iteration:** ${{\color{red}{\textsf{ bash\ \}}}}$ **PID** is (${{\color{red}{\textsf{ 4404\ \}}}}$ and that the $\mathbb{\color{red}{3- \show \_ \your \_ \bash \_ \pid \_ \made \_ \easy}}$ **script PID** is ${{\color{red}{\textsf{ 4555\ \}}}}$ .
-
-${{\color{red}{\textsf{ 3-\ \}}}}$${{\color{red}{\textsf{ show_your\ \}}}}$${{\color{red}{\textsf{ _bash\ \}}}}$${{\color{red}{\textsf{ _pid\ \}}}}$${{\color{red}{\textsf{ _made\ \}}}}$${{\color{red}{\textsf{ _easy\ \}}}}$
-
-  * **For the second iteration:** ${{\color{red}{\textsf{ bash\ \}}}}$ **PID** is (${{\color{red}{\textsf{ 4404\ \}}}}$ and that the $\mathscr{\color{red}{3-show_your_bash_pid_made_easy}}$ **script PID** is ${{\color{red}{\textsf{ 4557\ \}}}}$ .
+  * **For the first iteration:** ${{\color{red}{\textsf{ bash\ \}}}}$ **PID** is ${{\color{red}{\textsf{ 4404\ \}}}}$ and that the [**3-show_your_bash_pid_made_easy**](./3-show_your_bash_pid_made_easy) **script PID** is ${{\color{red}{\textsf{ 4555\ \}}}}$ .
+  * **For the second iteration:** ${{\color{red}{\textsf{ bash\ \}}}}$ **PID** is (${{\color{red}{\textsf{ 4404\ \}}}}$ and that the [**3-show_your_bash_pid_made_easy**](./3-show_your_bash_pid_made_easy) **script PID** is ${{\color{red}{\textsf{ 4557\ \}}}}$ .
 
 ##
 
@@ -334,9 +329,9 @@ BekaHabesha@ubuntu$
 * **File:**
   * [**5-dont_stop_me_now**](./5-dont_stop_me_now)
 ###
-* **We stopped our** $\mathfrak{\color{red}{4-to_infinity_and_beyond}}$ process using ${{\color{red}{\textsf{ ctrl+c\ \}}}}$ in the previous task, there is actually another way to do this.
+* **We stopped our** [**4-to_infinity_and_beyond**](./4-to_infinity_and_beyond) process using ${{\color{red}{\textsf{ ctrl+c\ \}}}}$ in the previous task, there is actually another way to do this.
 ###
-* **Write a <ins>**Bash script</ins> that stops** $\mathcal{\color{red}{4-to_infinity_and_beyond}}$ <ins>**process</ins>.** 
+* **Write a** <ins>**Bash script</ins> that stops** [**4-to_infinity_and_beyond**](./4-to_infinity_and_beyond) <ins>**process</ins>.** 
 ###
 * **<ins>Requirements</ins>:**
   * You must **use** ${{\color{red}{\textsf{ kill\ \}}}}$
@@ -368,7 +363,7 @@ BekaHabesha@ubuntu$ ./5-dont_stop_me_now
 BekaHabesha@ubuntu$ 
 ```
 ###
-* **I opened 2 terminals in this example, started by running my** $\mathcal{\color{red}{4-to_infinity_and_beyond}}$ **Bash script in terminal #0 and then moved on terminal #1 to run** $\mathcal{\color{red}{5-dont_stop_me_now}}$ . We can then see in **terminal #0 that my process has been terminated.**
+* **I opened 2 terminals in this example, started by running my** [**4-to_infinity_and_beyond**](./4-to_infinity_and_beyond) **Bash script in terminal #0 and then moved on terminal #1 to run** [**5-dont_stop_me_now**](./5-dont_stop_me_now) . We can then see in **terminal #0 that my process has been terminated.**
   
 ##
 
@@ -376,7 +371,7 @@ BekaHabesha@ubuntu$
 * **File:**
   * [**6-stop_me_if_you_can**](./6-stop_me_if_you_can)
 ###
-* **Write a** <ins>**Bash script</ins> that stops** $\mathcal{\color{red}{4-to_infinity_and_beyond}}$ <ins>**process</ins>.** 
+* **Write a** <ins>**Bash script</ins> that stops** [**4-to_infinity_and_beyond**](./4-to_infinity_and_beyond)  <ins>**process</ins>.** 
 ###
 * **<ins>Requirements</ins>:**
   * You **cannot use** ${{\color{red}{\textsf{ kill\ \}}}}$ or ${{\color{red}{\textsf{ killall\ \}}}}$
@@ -405,9 +400,9 @@ BekaHabesha@ubuntu$ ./6-stop_me_if_you_can
 BekaHabesha@ubuntu$ 
 ```
 ###
-* **I opened 2 terminals in this example, started by running my** $\mathcal{\color{red}{4-to_infinity_and_beyond}}$ **Bash script in terminal #0 and then moved on terminal #1 to run** $\mathcal{\color{red}{6-stop_me_if_you_can}}$ . We can then see in **terminal #0 that my process has been terminated.**
+* **I opened 2 terminals in this example, started by running my** [**4-to_infinity_and_beyond**](./4-to_infinity_and_beyond) **Bash script in terminal #0 and then moved on terminal #1 to run** [**6-stop_me_if_you_can**](./6-stop_me_if_you_can) . We can then see in **terminal #0 that my process has been terminated.**
 
-##
+## 
 
 ## **No. 7. Highlander**:heavy_check_mark:
 * **File:**
@@ -418,7 +413,7 @@ BekaHabesha@ubuntu$
   * With a ${{\color{red}{\textsf{ sleep 2\ \}}}}$ *in between each iteration* 
   * ${{\color{red}{\textsf{ I am invincible!!!\ \}}}}$ when receiving a ${{\color{red}{\textsf{ SIGTERM\ \}}}}$ signal
 ###
-* **Make a copy of your** $\mathcal{\color{red}{6-stop_me_if_you_can}}$ **script, name it** $\mathcal{\color{red}{67-stop_me_if_you_can}}$ , that kills the ${{\color{red}{\textsf{ 7-highlander\ \}}}}$ process instead of the $\mathcal{\color{red}{4-to_infinity_and_beyond}}$ one.
+* **Make a copy of your** [**6-stop_me_if_you_can**](./6-stop_me_if_you_can) **script, name it** [**67-stop_me_if_you_can**](./67-stop_me_if_you_can) , that kills the [**7-highlander**](./7-highlander) process instead of the [**4-to_infinity_and_beyond**](./4-to_infinity_and_beyond) one.
 ####
 * **Terminal #0**
 ```js
@@ -445,7 +440,7 @@ BekaHabesha@ubuntu$ ./67-stop_me_if_you_can
 BekaHabesha@ubuntu$ 
 ```
 ###
-* **I started** ${{\color{red}{\textsf{ 7-highlander\ \}}}}$ **in terminal #0 and then run** $\mathcal{\color{red}{67-stop_me_if_you_can}}$ **in terminal #1 , for every iteration we can see** ${{\color{red}{\textsf{ I am invincible!!!\ \}}}}$ **appearing in terminal #0.**
+* **I started** [**7-highlander**](./7-highlander) **in terminal #0 and then run** [**67-stop_me_if_you_can**](./67-stop_me_if_you_can) **in terminal #1 , for every iteration we can see** ${{\color{red}{\textsf{ I am invincible!!!\ \}}}}$ **appearing in terminal #0.**
 
 ##
 
@@ -453,7 +448,7 @@ BekaHabesha@ubuntu$
 * **File:**
   * [**8-beheaded_process**](./8-beheaded_process)
 ###
-* **Write a** <ins>**Bash script</ins> that kills the process** ${{\color{red}{\textsf{ 7-highlander\ \}}}}$ .
+* **Write a** <ins>**Bash script</ins> that kills the process** [**7-highlander**](./7-highlander) .
 ###
 * **Terminal #0**
 ```js
@@ -472,17 +467,17 @@ BekaHabesha@ubuntu$ ./8-beheaded_process
 BekaHabesha@ubuntu$ 
 ```
 ###
-* **I started** ${{\color{red}{\textsf{ 7-highlander\ \}}}}$ **in terminal #0 and then run** $\mathcal{\color{red}{8-beheaded_process}}$ **in terminal #1 , for every iteration we can see that the** ${{\color{red}{\textsf{ 7-highlander\ \}}}}$ **has been killed.**
+* **I started** [**7-highlander**](./7-highlander) **in terminal #0 and then run** [**8-beheaded_process**](./8-beheaded_process) **in terminal #1 , for every iteration we can see that the** [**7-highlander**](./7-highlander) **has been killed.**
 
 #
 
-<h1 align="center">ADVANCED_TASKS (From Task 9 to 21) :cd:</h1>
+<h1 align="center">ADVANCED_TASKS (From Task 9 to 11) :cd:</h1>
 
 ## **No. 9. Process and PID file** :heavy_check_mark:
 * **File:**
   * [**100-process_and_pid_file**](./100-process_and_pid_file)
 ###
-* **Write a <ins>**Bash script</ins> that:**
+* **Write a** <ins>**Bash script</ins> that:**
   * **Creates the file** $\mathcal{\color{red}{/var/run/myscript.pid}}$ **containing its <ins>PID</ins> .**
   * **Displays** ${{\color{red}{\textsf{ To infinity and beyond\ \}}}}$ **indefinitely .**
   * **Displays** ${{\color{red}{\textsf{ I hate the kill command\ \}}}}$ **when receiving a <ins>SIGTERM signal</ins> .**
@@ -490,7 +485,7 @@ BekaHabesha@ubuntu$
   * **Deletes the file** $\mathcal{\color{red}{/var/run/myscript.pid}}$ and **terminates itself when receiving a <ins>SIGQUIT</ins> or <ins>SIGTERM signal</ins> .**
 
 <p align="center">
-  <img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/d8ecfe9109334898b9540ffd20cf64d1c06f0c09.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231226T164539Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=57770cb6863a063d821ff261b34865ef46241a42e3142c9c8b012ea6d40545b3" />
+  <img src="https://i.ibb.co/HFQCs3t/for-no-9.jpg" />
 </p>
 
 ###
@@ -502,7 +497,7 @@ To infinity and beyond
 BekaHabesha@ubuntu$ 
 ```
 ###
-* **<ins>Executing</ins>** the $\mathcal{\color{red}{100-process_and_pid_file}}$ **<ins>script</ins> and <ins>killing</ins> it with** ${{\color{red}{\textsf{ ctrl+c\ \}}}}$ **.**
+* **<ins>Executing</ins>** the [**100-process_and_pid_file**](./100-process_and_pid_file) **<ins>script</ins> and <ins>killing</ins> it with** ${{\color{red}{\textsf{ ctrl+c\ \}}}}$ **.**
 ###
 * **Terminal #0**
 ```js
@@ -528,7 +523,7 @@ BekaHabesha@ubuntu$ sudo pkill -f 100-process_and_pid_file
 BekaHabesha@ubuntu$ 
 ```
 ###
-* **Starting** $\mathcal{\color{red}{100-process_and_pid_file}}$ **in the terminal #0 and then killing it in the terminal #1.**
+* **Starting** [**100-process_and_pid_file**](./100-process_and_pid_file) **in the terminal #0 and then killing it in the terminal #1.**
 
 ##
 
@@ -538,7 +533,7 @@ BekaHabesha@ubuntu$
   * [**manage_my_process**](./manage_my_process)
 
 <p align="center">
-  <img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/37975393ead381f4d27f268f7337c6d3013b4991.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231226T164539Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=2e2c99bb0fc01f55fce0c902f7c477bf9ae5a008f84f49a815e900659c18d8f7" />
+  <img src="https://i.ibb.co/kyjshWF/for-no-10.jpg" />
 </p>
 
 ###
@@ -552,33 +547,33 @@ BekaHabesha@ubuntu$
 ###
 <ins>**Programs</ins> that are detached from the <ins>terminal</ins> and <ins>running in the background</ins> are called <ins>daemons</ins> or <ins>processes</ins>,** need to be managed. **The general <ins>minimum set of instructions</ins> is:** ${{\color{red}{\textsf{ start\ \}}}}$ **,** ${{\color{red}{\textsf{ restart\ \}}}}$ **and** ${{\color{red}{\textsf{ stop\ \}}}}$ **.** The **<ins>most popular</ins> way of doing so on <ins>Unix system</ins> is to use the <ins>init scripts</ins>.**
 ###
-* **Write a** $\mathcal{\color{red}{manage_my_process}}$ <ins>**Bash script</ins> that:**
-  * **Indefinitely Writes** ${{\color{red}{\textsf{ I am alive!\ \}}}}$ **to the file** $\mathcal{\color{red}{/tmp/my_process}}$
+* **Write a** [**manage_my_process**](./manage_my_process) <ins>**Bash script</ins> that:**
+  * **Indefinitely Writes** ${{\color{red}{\textsf{ I am alive!\ \}}}}$ **to the file** $\mathcal{\color{red}{/tmp/my(_)process}}$
   * **In between every** ${{\color{red}{\textsf{ I am alive!\ \}}}}$ **message, the program should <ins>pause</ins> for <ins>2 seconds</ins>.**
 ###
-* **Write** <ins>**Bash (init) script</ins>** $\mathcal{\color{red}{101-manage_my_process}}$ **that <ins>manages</ins>** $\mathcal{\color{red}{manage_my_process}}$ . (both files need to be pushed to git)
+* **Write** <ins>**Bash (init) script</ins>** [**101-manage_my_process**](./101-manage_my_process) **that <ins>manages</ins>** [**manage_my_process**](./manage_my_process) . (both files need to be pushed to git)
 ###
 * **<ins>Requirements</ins>:**
   * **When <ins>passing the argument</ins>** ${{\color{red}{\textsf{ start\ \}}}}$ **:** 
-    * **Starts** $\mathcal{\color{red}{manage_my_process}}$ **.**
-    * **Creates a file containing its PID in** $\mathcal{\color{red}{/var/run/my_process.pid}}$ **.** 
-    * **Displays** $\mathcal{\color{red}{manage_my_process started}}$ **.**
+    * **Starts** [**manage_my_process**](./manage_my_process) **.**
+    * **Creates a file containing its PID in** $\mathcal{\color{red}{/var/run/}}$[**my_process**](./manage_my_process)${{\color{red}{\textsf{ .pid\ \}}}}$ **.** 
+    * **Displays** [**manage_my_process**](./manage_my_process) ${{\color{red}{\textsf{ started\ \}}}}$ **.**
   * **When <ins>passing the argument</ins>** ${{\color{red}{\textsf{ stop\ \}}}}$ **:** 
-    * **Stops** $\mathcal{\color{red}{manage_my_process}}$ **.**
-    * **Deletes the file** $\mathcal{\color{red}{/var/run/my_process.pid}}$ **.** 
-    * **Displays** $\mathcal{\color{red}{manage_my_process stopped}}$ **.**
+    * **Stops** [**manage_my_process**](./manage_my_process) **.**
+    * **Deletes the file** $\mathcal{\color{red}{/var/run/}}$[**my_process**](./manage_my_process)${{\color{red}{\textsf{ .pid\ \}}}}$ **.** 
+    * **Displays** [**manage_my_process**](./manage_my_process) ${{\color{red}{\textsf{ stoped\ \}}}}$ **.**
   * **When <ins>passing the argument</ins>** ${{\color{red}{\textsf{ restart\ \}}}}$ **:** 
-    * **Stops** $\mathcal{\color{red}{manage_my_process}}$ **.**
-    * **Deletes the file** $\mathcal{\color{red}{/var/run/my_process.pid}}$ **.** 
-    * **Starts** $\mathcal{\color{red}{manage_my_process}}$ **.**
-    * **Creates a file containing its PID in** $\mathcal{\color{red}{/var/run/my_process.pid}}$ **.** 
-    * **Displays** $\mathcal{\color{red}{manage_my_process restarted}}$ **.**
+    * **Stops** [**manage_my_process**](./manage_my_process) **.**
+    * **Deletes the file** $\mathcal{\color{red}{/var/run/}}$[**my_process**](./manage_my_process)${{\color{red}{\textsf{ .pid\ \}}}}$ **.** 
+    * **Starts** [**manage_my_process**](./manage_my_process) **.**
+    * **Creates a file containing its PID in** $\mathcal{\color{red}{/var/run/}}$[**my_process**](./manage_my_process)${{\color{red}{\textsf{ .pid\ \}}}}$ **.** 
+    * **Displays** [**manage_my_process**](./manage_my_process) ${{\color{red}{\textsf{ restarted\ \}}}}$ **.**
   * **<ins>Displays</ins>** ${{\color{red}{\textsf{ start\ \}}}}$ **:** 
-    * **Starts** $\mathcal{\color{red}{manage_my_process}}$ **.**
-    * **Creates a file containing its PID in** $\mathcal{\color{red}{/var/run/my_process.pid}}$ **.** 
-    * **Displays** ${{\color{red}{\textsf{ Usage:\ \}}}}$ $\mathcal{\color{red}{manage_my_process {start|stop|restart} ,}}$ **if any other argument or no argument is passed.**
+    * **Starts** [**manage_my_process**](./manage_my_process) **.**
+    * **Creates a file containing its PID in**$\mathcal{\color{red}{/var/run/}}$[**my_process**](./manage_my_process)${{\color{red}{\textsf{ .pid\ \}}}}$ **.** 
+    * **Displays** ${{\color{red}{\textsf{ Usage:\ \}}}}$ [**my_process**](./manage_my_process) [**{start|stop|restart}**](./manage_my_process), **if any other argument or no argument is passed.**
 ###
-**Note that this init script is far from being perfect (but good enough for the sake of manipulating process and PID file), for example we do not handle the case where we check if a process is already running when doing $\mathcal{\color{red}{./101-manage_my_process start}}$ , in our case it will simply create a new process instead of saying that it is already started.**
+**Note that this init script is far from being perfect (but good enough for the sake of manipulating process and PID file), for example we do not handle the case where we check if a process is already running when doing [**./101-manage_my_process start**](./101-manage_my_process start) , in our case it will simply create a new process instead of saying that it is already started.**
 ###
 ```js
 BekaHabesha@ubuntu$ ./101-manage_my_process
@@ -629,7 +624,7 @@ BekaHabesha@ubuntu$
 * **Write a** <ins>**C program</ins> that creates <ins>5 zombie processes<ins>.**
 ###
 * **<ins>Requirements</ins>:**
-  * **For every <ins>zombie processes<ins> created, it displays** the ${{\color{red}{\textsf{ Zombie process created, PID:\ \}}}}$ $\mathcal{\color{red}{ZOMBIE_PID}}$ 
+  * **For every <ins>zombie processes<ins> created, it displays** the ${{\color{red}{\textsf{ Zombie process created, PID:\ \}}}}$ [**ZOMBIE_PID**](./102-zombie.c) 
   * **Your code should use the <ins>Betty style<ins>. It will be checked using** ${{\color{red}{\textsf{ betty-style.pl\ \}}}}$ and ${{\color{red}{\textsf{ betty-doc.pl\ \}}}}$ **.**
   * **When your code is done creating the <ins>parent process<ins> and the <ins>zombies<ins>, use the function bellow**
 ###
@@ -676,6 +671,6 @@ bekihab+    1048  0.0  0.1   4032  2088 pts/5    S+   22:47   0:00 grep --color=
 BekaHabesha@ubuntu$ 
 ```
 ###
-* **In Terminal #0, I start by compiling** ${{\color{red}{\textsf{ 102-zombie.c\ \}}}}$ and **executing** ${{\color{red}{\textsf{ zombie\ \}}}}$ **which creates <ins>5 zombie processes</ins>. In Terminal #1, I display the list of <ins>processes</ins> and look for <ins>lines containing</ins>** $\mathcal{\color{red}{Z+.*<defunct>}}$ **which catches <ins>zombie process</ins>.**
+* **In Terminal #0, I start by compiling** ${{\color{red}{\textsf{ 102-zombie.c\ \}}}}$ and **executing** ${{\color{red}{\textsf{ zombie\ \}}}}$ **which creates <ins>5 zombie processes</ins>. In Terminal #1, I display the list of <ins>processes</ins> and look for <ins>lines containing</ins>** [**Z+.* <defunct>**](./102-zombie.c) **which catches <ins>zombie process</ins>.**
 
 ##
