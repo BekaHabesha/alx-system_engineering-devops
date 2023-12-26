@@ -5,6 +5,8 @@
   <img src="https://i.ibb.co/YbhzbPX/0x05-Processes-and-signals-Alx-logo.png" />
 </p>
 
+${{\color{red}{\textsf{ 3-\ \}}}}$${{\color{red}{\textsf{ show\ \}}}}$${{\color{red}{\textsf{ _\ \}}}}$${{\color{red}{\textsf{ pid\ \}}}}$${{\color{red}{\textsf{ _\ \}}}}$${{\color{red}{\textsf{ easy\ \}}}}$
+
 ##
 
 * **File_name:📋** 📖 [**README.md**](https://github.com/BekaHabesha/alx-system_engineering-devops/blob/master/0x05-processes_and_signals/README.md)
