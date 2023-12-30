@@ -5,22 +5,6 @@
   <img src="https://i.ibb.co/tYmX3VF/0x04-Loops-conditions-and-parsing-Alx-logo.png" />
 </p>
 
-${{\color{red}{\textsf{ width must be >= 0\ \}}}}\$
-(based on ${{\color{red}{\textsf{ 0-rectangle.py\ \}}}}\$)
-${{\color{red}{\textsf{ Rectangle\ \}}}}\$
-${{\color{red}{\textsf{ width:\ \}}}}\$
-${{\color{red}{\textsf{ TypeError\ \}}}}\$
-${{\color{red}{\textsf{ 0\ \}}}}\$
-${{\color{red}{\textsf{ ValueError\ \}}}}\$
-${{\color{red}{\textsf{ width must be an integer\ \}}}}\$
-${{\color{red}{\textsf{ width must be >= 0\ \}}}}\$
-${{\color{red}{\textsf{ height:\ \}}}}\$
-${{\color{red}{\textsf{ height must be an integer\ \}}}}\$
-${{\color{red}{\textsf{ height must be >= 0\ \}}}}\$
-
-${{\color{red}{\textsf{ width\ \}}}}\$ 
-${{\color{red}{\textsf{ height\ \}}}}\$
-
 ##
 
 * **File_name:📋** 📖 [**README.md**](https://github.com/BekaHabesha/alx-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/README.md) 📖 **file**
