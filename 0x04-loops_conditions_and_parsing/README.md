@@ -5,6 +5,8 @@
   <img src="https://i.ibb.co/tYmX3VF/0x04-Loops-conditions-and-parsing-Alx-logo.png" />
 </p>
 
+${{\color{red}{\textsf{ width must be >= 0\ \}}}}\$
+
 ##
 
 * **File_name:📋** 📖 [**README.md**](https://github.com/BekaHabesha/alx-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/README.md) 📖 **file**
