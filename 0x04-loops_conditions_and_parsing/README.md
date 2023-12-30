@@ -24,7 +24,7 @@ ${{\color{red}{\textsf{ height\ \}}}}\$
 ##
 
 * **File_name:📋** 📖 [**README.md**](https://github.com/BekaHabesha/alx-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/README.md) 📖 **file**
-* **Created: 📅 ** <ins>**On December 21, 2023**</ins> 🕙
+* **Created: 📅** <ins>**On December 21, 2023**</ins> 🕙
 * **Author:🖊️** 👨🏻‍💻 [***Bereket Dereje Mekkonen***](https://intranet.alxswe.com/users/BereketDerejeMekonnen) 🧑‍💻
 * **Project Title: 🔠**  💻 [**0x04. Loops, conditions and parsing**](https://intranet.alxswe.com/projects/251) 📝🔡
 * **GitHub repository: 📦** 🗂 [**alx-system_engineering-devops**](https://github.com/BekaHabesha/alx-system_engineering-devops) 🗂
