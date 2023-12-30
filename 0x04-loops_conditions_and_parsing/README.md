@@ -6,6 +6,20 @@
 </p>
 
 ${{\color{red}{\textsf{ width must be >= 0\ \}}}}\$
+(based on ${{\color{red}{\textsf{ 0-rectangle.py\ \}}}}\$)
+${{\color{red}{\textsf{ Rectangle\ \}}}}\$
+${{\color{red}{\textsf{ width:\ \}}}}\$
+${{\color{red}{\textsf{ TypeError\ \}}}}\$
+${{\color{red}{\textsf{ 0\ \}}}}\$
+${{\color{red}{\textsf{ ValueError\ \}}}}\$
+${{\color{red}{\textsf{ width must be an integer\ \}}}}\$
+${{\color{red}{\textsf{ width must be >= 0\ \}}}}\$
+${{\color{red}{\textsf{ height:\ \}}}}\$
+${{\color{red}{\textsf{ height must be an integer\ \}}}}\$
+${{\color{red}{\textsf{ height must be >= 0\ \}}}}\$
+
+${{\color{red}{\textsf{ width\ \}}}}\$ 
+${{\color{red}{\textsf{ height\ \}}}}\$
 
 ##
 
