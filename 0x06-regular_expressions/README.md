@@ -140,7 +140,7 @@ sylvain@ubuntu$ ./example.rb 127.0.0.a
 ###
 
 <p align="center">
-  <img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/ec65557f0da1fbfbff6659413885e4d4822f5b1d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240103T154133Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=cc780ef089796924805bfed8373c3953872843bf38d2dfa3b581fe686d3a52ec" />
+  <img src="https://i.ibb.co/3kSNQNb/0-main-0x06-Regular-expression.png" />
 </p>
 
 * <ins>**Requirements</ins>:**
@@ -167,7 +167,7 @@ $
   * [**1-repetition_token_0.rb**](./1-repetition_token_0.rb)
 ###
 <p align="center">
-  <img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/e7db3c377d46453588fc84f3a975661d142fee91.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240103T154133Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=5c9cff2a9ec87fc71e11610f5e3e21dce6574cd699dfbefeb62ca4d0890961dc" />
+  <img src="https://i.ibb.co/BCScSNW/1-main-0x06-Regular-expression.png" />
 </p>
 
 * <ins>**Requirements</ins>:**
@@ -181,7 +181,7 @@ $
   * [**2-repetition_token_1.rb**](./2-repetition_token_1.rb)
 ###
 <p align="center">
-  <img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/c59ff11db195d5cf17d1790a5141ae2f234786d2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240103T154133Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=bdc630611ab28dd66956df98f2cf0e639b9df484cbd870565638fec74de94afc" />
+  <img src="https://i.ibb.co/cQPnCJv/2-main-0x06-Regular-expression.png" />
 </p>
 
 * <ins>**Requirements</ins>:**
@@ -196,7 +196,7 @@ $
 ###
 
 <p align="center">
-  <img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/3b6bf4aeca6a0c2de584e7f5d68d11eef57ce205.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240103T154133Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=21aaa1a16f9e57d22fae08062832b2095f254172440a4326ea82763d056ffbe7" />
+  <img src="https://i.ibb.co/9pqd23L/3-main-0x06-Regular-expression.png" />
 </p>
 
 * <ins>**Requirements</ins>:**
@@ -210,7 +210,7 @@ $
   * [**4-repetition_token_3.rb**](./4-repetition_token_3.rb)
 ###
 <p align="center">
-  <img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/f8dbcb9cf5ae569a8645027dc46e81cb372ce28e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240103T154133Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=2d2c57ac4e6935c431c5492a4c6ce3990c0100847e65e215cccd8cc75d0f0c92" />
+  <img src="https://i.ibb.co/NyyhxN4/4-main-0x06-Regular-expression.png" />
 </p>
 
 * <ins>**Requirements</ins>:**
