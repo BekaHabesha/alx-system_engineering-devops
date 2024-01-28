@@ -40,7 +40,9 @@
 ### **Definition:**
 * <ins>**Web Applications Infrastructure/Web Infrastructure</ins>** also called **internet infrastructure** is the physical hardware, transmission media, and software used to interconnect computers and users on the Internet.
 
-[<img src="https://i.ibb.co/bPqL9hm/for-intro-youtube.png" >](https://youtu.be/lQNEW76KdYg)
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*xKd1CchSaSKV83Oizju8kg.png" />
+</p>
 
 <H1><ins>Simple Web stack</ins> </H1>
 
