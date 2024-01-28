@@ -35,9 +35,7 @@
 
 <H1 align="center", height="1500"> <ins>Web Infrastructure Design</ins> </H1>
 
-<p align="center">
-  <img src="https://i.ibb.co/PGZHbC7/hbnb-for-intro-0x00-Air-Bn-B-clone-The-console.png" />
-</p>
+[<img src="https://i.ibb.co/bPqL9hm/for-intro-youtube.png" >](https://youtu.be/lQNEW76KdYg)
 
 ### **Definition:**
 * <ins>**Web Applications Infrastructure/Web Infrastructure</ins>** also called **internet infrastructure** is the physical hardware, transmission media, and software used to interconnect computers and users on the Internet.
