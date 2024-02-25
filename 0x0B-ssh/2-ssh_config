@@ -1,0 +1,5 @@
+# ssh config file
+# Author Bereket Dereje
+Host *
+      PasswordAuthentication no
+      IdentifyFile ~/.ssh/school
