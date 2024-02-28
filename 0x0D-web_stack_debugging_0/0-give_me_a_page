@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Start Apache so as to return a
+# page conatining Hello Holberton
+# Author Bereket Dereje
+
+service apache2 start
