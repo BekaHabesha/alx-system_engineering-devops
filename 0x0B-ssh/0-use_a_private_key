@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Connects to server 100.25.204.226 with key in ~/.ssh/school
+# Connects to server 52.86.133.162 with key in ~/.ssh/school
 # Author Bereket Dereje
 
-ssh -i ~/.ssh/school ubuntu@100.25.204.226
+ssh -i ~/.ssh/school ubuntu@52.86.133.162
