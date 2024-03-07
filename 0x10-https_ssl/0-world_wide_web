@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
-# Takes a subdomain and a domain and 
-#   returns information about the subdomain
-# It Display information about subdomains.
+# Takes a subdomain and a domain and returns information about the subdomain. It Display information about subdomains.
 # Author Bereket Dereje
 
 print_info () {
