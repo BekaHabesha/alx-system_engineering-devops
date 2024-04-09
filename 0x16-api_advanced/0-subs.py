@@ -1,16 +1,16 @@
 #!/usr/bin/python3
-"""Contains the number_of_subscribers function."""
+""" Module for task 0 """
 import requests
 
 
 def number_of_subscribers(subreddit):
-    """returns the number of subscribers for a given subreddit"""
-    url = "https://www.reddit.com/rabout.json".format(subreddit)
-    headers = {
-       "User-Agent": "linux:0x16.api.advanced:v1.0.0 (by /u/bdov_"
-    }
-    response = requests.get(url, headers=headers, allow_redirects=False)
-    if response.status_code == 404:
+    """ Queries the Reddit API of the users"""
+    req = requests.get(
+        "https://www.reddit.com/r/{}/about.json".format(subreddit),
+        headers={"User-Agent": "Custom"},
+    )
+
+    if req.status_code == 200:
+        return req.json().get("data").get("subscribers", 0)
+    else:
         return 0
-    if response.json().get("data")
-    return results.get("subscribers")
