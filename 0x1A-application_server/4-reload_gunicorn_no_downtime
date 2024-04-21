@@ -1,4 +1,6 @@
+vi 4-reload_gunicorn_no_downtime
+
 #!/usr/bin/env bash
 # Gracefully reloads Gunicorn
 
-pkill -HUP
+pgrep gunicorn | xargs kill -HUP
