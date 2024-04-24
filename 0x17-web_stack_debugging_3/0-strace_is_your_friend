@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# a Bash script that configures
+
+sed -i "s/phpp/php/g" /var/www/html/wp-settings.php
+
+sed -i "s/phpp/php/g" /var/www/sites-available/default
+
+chmod 644 /var/www/html/wp-settings.php
+
+sudo -u service php start
