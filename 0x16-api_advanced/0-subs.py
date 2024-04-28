@@ -2,15 +2,18 @@
 """ Module for task 0 """
 import requests
 
-
 def number_of_subscribers(subreddit):
-    """ Queries the Reddit API of the users"""
-    req = requests.get(
-        "https://www.reddit.com/r/{}/about.json".format(subreddit),
-        headers={"User-Agent": "Bekahabesha"},
-    )
+    url = f"https://www.reddit.com/r/{subreddit}/about.json"
+    headers = {'User-Agent': 'Custom User Agent'}
 
-    if req.status_code == 200:
-        return req.json().get("data").get("subscribers", 0)
-    else:
+    try:
+        response = requests.get(url, headers=headers, allow_redirects=False)
+        if response.status_code == 200:
+            data = response.json()
+            subscribers = data['data']['subscribers']
+            return subscribers
+        else:
+            return 0
+    except requests.exceptions.RequestException as e:
+        print("An error occurred:", e)
         return 0
