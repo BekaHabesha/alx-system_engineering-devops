@@ -1,28 +1,16 @@
 #!/usr/bin/python3
-
+""" Module for task 0 """
 import requests
 
+
 def number_of_subscribers(subreddit):
-  """
-  This function queries the Reddit API to get the subscriber count for a subreddit.
+    """ Queries the Reddit API of the users"""
+    req = requests.get(
+        "https://www.reddit.com/r/{}/about.json".format(subreddit),
+        headers={"User-Agent": "bekahabesha"},
+    )
 
-  Args:
-      subreddit: The name of the subreddit (without the 'r/').
-
-  Returns:
-      The number of subscribers for the subreddit, or 0 if the subreddit is invalid.
-  """
-  url = f"https://www.reddit.com/r/{subreddit}/about.json"
-  headers = {'User-Agent': 'Your User Agent Name'}  # Replace with your unique user agent
-
-  try:
-    response = requests.get(url, headers=headers)
-    response.raise_for_status()  # Raise an exception for non-200 status codes
-    data = response.json()
-    return data.get('data', {}).get('subscribers', 0)  # Handle potential missing data
-  except requests.exceptions.RequestException:
-    # Handle any errors during the request
-    return 0
-  except KeyError:
-    # Handle case where 'subscribers' key is missing in response
-    return 0
+    if req.status_code == 200:
+        return req.json().get("data").get("subscribers", 0)
+    else:
+        return 0
